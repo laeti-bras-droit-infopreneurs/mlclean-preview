@@ -1,0 +1,37 @@
+---
+layout: default
+---
+<article>
+  <header class="entete-page entete-prestation">
+    <div class="conteneur">
+      {% include breadcrumb.html %}
+      <h1>{{ page.title }}</h1>
+      <p class="sous-titre">{{ page.accroche }}</p>
+    </div>
+  </header>
+
+  <div class="conteneur">
+    {% include visuel.html image=page.image theme=page.slug titre=page.title classe="page-media ratio-21-9" %}
+  </div>
+
+  <div class="conteneur contenu-page">
+    {{ content }}
+  </div>
+
+  {%- comment -%} Maillage automatique : situations rattachées à ce pôle {%- endcomment -%}
+  {% include situations-liees.html pole=page.slug titre="Les situations que nous prenons en charge" %}
+
+  {%- comment -%} Maillage transversal : les deux autres pôles {%- endcomment -%}
+  <section class="autres-poles">
+    <div class="conteneur">
+      <h2>Nos autres prestations</h2>
+      <div class="grille-prestations">
+        {% assign autres = site.prestations | where_exp: "p", "p.url != page.url" | sort: "ordre" %}
+        {% for p in autres %}
+          {% include card-prestation.html pole=p index=forloop.index %}
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+</article>
+{% include cta-devis.html %}

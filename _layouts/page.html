@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article>
+  <header class="entete-page">
+    <div class="conteneur">
+      {% include breadcrumb.html %}
+      <h1>{{ page.title }}</h1>
+      {% if page.sous_titre %}<p class="sous-titre">{{ page.sous_titre }}</p>{% endif %}
+    </div>
+  </header>
+  <div class="conteneur contenu-page">
+    {{ content }}
+  </div>
+</article>
+{% unless page.sans_cta %}
+{% include cta-devis.html %}
+{% endunless %}

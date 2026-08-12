@@ -1,0 +1,49 @@
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {%- comment -%} Titre, description, Open Graph, canonical : générés par jekyll-seo-tag
+  à partir du front-matter de chaque page. {%- endcomment -%}
+  {% seo %}
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,600;6..12,700;6..12,800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/assets/img/favicon.png' | relative_url }}">
+
+  {%- comment -%} Données structurées : entreprise locale, zone Périgord Noir {%- endcomment -%}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "ML Clean Services",
+    "legalName": "ML Clean Services (SAS)",
+    "slogan": "Nettoyer • Vider • Redonner",
+    "description": "Débarras, nettoyage et désinfection de logements, accompagnement social. Entreprise de l'économie sociale et solidaire en Périgord Noir.",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    {% if site.data.contact.telephone_lien != "" %}"telephone": "{{ site.data.contact.telephone_lien }}",{% endif %}
+    {% if site.data.contact.email != "" %}"email": "{{ site.data.contact.email }}",{% endif %}
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Sarlat-la-Canéda",
+      "addressRegion": "Nouvelle-Aquitaine",
+      "addressCountry": "FR"
+    },
+    "areaServed": {
+      "@type": "GeoCircle",
+      "geoMidpoint": { "@type": "GeoCoordinates", "latitude": 44.889, "longitude": 1.216 },
+      "geoRadius": 80000,
+      "description": "Sarlat-la-Canéda et alentours (rayon d'environ 1 heure)"
+    },
+    "knowsAbout": [
+      "Débarras de logement",
+      "Nettoyage après syndrome de Diogène",
+      "Nettoyage de logement insalubre",
+      "Désinfection",
+      "Accompagnement social"
+    ]
+  }
+  </script>
+</head>

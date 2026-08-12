@@ -1,0 +1,13 @@
+<section class="bloc-valeurs">
+  <div class="conteneur">
+    <h2>{{ include.titre | default: "Nos valeurs" }}</h2>
+    <div class="grille-valeurs">
+      {% for v in site.data.social_proof.valeurs %}
+      <div class="carte-valeur">
+        <h3>{{ v.nom }}</h3>
+        <p>{{ v.description }}</p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>

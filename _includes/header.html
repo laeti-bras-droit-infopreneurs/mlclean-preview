@@ -1,0 +1,56 @@
+<header class="site-header">
+  <div class="conteneur header-inner">
+    <a class="logo" href="{{ '/' | relative_url }}">
+      <img class="logo-img" src="{{ '/assets/img/logo-embleme.png' | relative_url }}" alt="" width="42" height="46">
+      <span class="logo-texte">
+        <span class="logo-nom">ML Clean <strong>Services</strong></span>
+        <span class="logo-slogan">Nettoyer • Vider • Redonner</span>
+      </span>
+    </a>
+
+    <button class="burger" aria-expanded="false" aria-controls="nav-principale" aria-label="Ouvrir le menu">
+      <span></span><span></span><span></span>
+    </button>
+
+    <nav class="nav-principale" id="nav-principale" aria-label="Navigation principale">
+      <ul>
+        {% for item in site.data.navigation.principale %}
+          {% if item.actif == false %}{% continue %}{% endif %}
+
+          {% if item.type == "groupe" %}
+            <li class="a-sous-menu">
+              <button class="nav-lien nav-declencheur" aria-expanded="false">{{ item.label }} <span class="chevron" aria-hidden="true">▾</span></button>
+              <div class="sous-menu">
+                <ul>
+                  {% for lien in item.liens %}
+                  <li><a href="{{ lien.url | relative_url }}">{{ lien.label }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
+
+          {% elsif item.type == "pole" %}
+            {% assign p = site.prestations | where: "slug", item.pole | first %}
+            <li class="a-sous-menu">
+              <button class="nav-lien nav-declencheur" aria-expanded="false">{{ item.label }} <span class="chevron" aria-hidden="true">▾</span></button>
+              <div class="sous-menu">
+                <ul>
+                  {% if p %}<li><a class="sous-menu-titre" href="{{ p.url | relative_url }}">Vue d'ensemble</a></li>{% endif %}
+                  {% assign enfants = site.situations | where: "pole", item.pole %}
+                  {% for s in enfants %}
+                  <li><a href="{{ s.url | relative_url }}">{{ s.title }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            </li>
+
+          {% else %}
+            <li>
+              <a class="nav-lien {% if item.cta %}nav-cta{% endif %}" href="{{ item.url | relative_url }}">{{ item.label }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

@@ -1,0 +1,9 @@
+# Phase 2 — une page par zone d'intervention (Sarlat et communes alentours…)
+# Modèle de front-matter :
+# ---
+# title: "Débarras et nettoyage à Sarlat-la-Canéda"
+# accroche: "…"
+# description: "…"
+# ---
+# L'entrée « Zones d'intervention » du menu s'activera automatiquement
+# dès qu'un fichier .md existera dans ce dossier.

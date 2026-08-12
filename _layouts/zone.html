@@ -1,0 +1,21 @@
+---
+layout: default
+---
+{%- comment -%} Gabarit des futures pages « zones d'intervention » (phase 2) {%- endcomment -%}
+<article>
+  <header class="entete-page">
+    <div class="conteneur">
+      {% include breadcrumb.html %}
+      <h1>{{ page.title }}</h1>
+      {% if page.accroche %}<p class="sous-titre">{{ page.accroche }}</p>{% endif %}
+    </div>
+  </header>
+  <div class="conteneur">
+    {% include visuel.html image=page.image theme="zone" titre=page.title classe="page-media ratio-21-9" %}
+  </div>
+  <div class="conteneur contenu-page">
+    {{ content }}
+  </div>
+  {% include situations-liees.html titre="Nos interventions dans ce secteur" %}
+</article>
+{% include cta-devis.html %}

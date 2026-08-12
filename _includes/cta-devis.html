@@ -1,0 +1,15 @@
+<section class="cta-devis">
+  <div class="conteneur cta-inner">
+    <div>
+      <h2>Parlons de votre situation</h2>
+      <p>Visite gratuite sur place, devis clair sous 72 h, intervention possible sous 7 jours.<br>
+      Sans engagement, et toujours dans le respect des lieux et des personnes.</p>
+    </div>
+    <div class="cta-actions">
+      <a class="bouton bouton-plein" href="{{ '/contact/' | relative_url }}">Demander un devis gratuit</a>
+      {% if site.data.contact.telephone != "" %}
+      <a class="bouton bouton-contour" href="tel:{{ site.data.contact.telephone_lien }}">{{ site.data.contact.telephone }}</a>
+      {% endif %}
+    </div>
+  </div>
+</section>

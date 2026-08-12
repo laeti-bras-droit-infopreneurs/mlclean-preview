@@ -1,0 +1,65 @@
+# ─────────────────────────────────────────────────────────────
+# ML Clean Services — configuration Jekyll (GitHub Pages)
+# ─────────────────────────────────────────────────────────────
+title: ML Clean Services
+tagline: Nettoyer • Vider • Redonner
+description: >-
+  Débarras, nettoyage et désinfection de logements en Périgord Noir.
+  Entreprise de l'économie sociale et solidaire : interventions dans le
+  respect et la dignité de chacun — Sarlat et alentours.
+lang: fr
+timezone: Europe/Paris
+
+# URL de démonstration (GitHub Pages). Le jour du passage au domaine
+# personnalisé du client : url = https://www.LEDOMAINE.fr et baseurl = ""
+url: "https://laeti-bras-droit-infopreneurs.github.io"
+baseurl: "/mlclean-preview"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# ── Collections : le cœur de la montée en granularité SEO ──
+collections:
+  prestations: # les 3 pôles de service
+    output: true
+    permalink: /prestations/:name/
+  situations: # une page par situation traitée (Diogène, insalubrité…)
+    output: true
+    permalink: /situations/:name/
+  zones: # une page par zone d'intervention
+    output: true
+    permalink: /zones/:name/
+  ressources: # articles conseils (hub : /ressources/)
+    output: true
+    permalink: /ressources/:name/
+
+defaults:
+  - scope:
+      type: prestations
+    values:
+      layout: prestation
+  - scope:
+      type: situations
+    values:
+      layout: situation
+  - scope:
+      type: zones
+    values:
+      layout: zone
+  - scope:
+      type: ressources
+    values:
+      layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+sass:
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

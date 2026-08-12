@@ -1,0 +1,55 @@
+<footer class="site-footer">
+  <div class="conteneur footer-grille">
+    <div>
+      <p class="footer-logo">ML Clean <strong>Services</strong></p>
+      <p class="footer-slogan">Nettoyer • Vider • Redonner</p>
+      <p>Entreprise de l'économie sociale et solidaire.<br>
+      Nettoyage et renouveau au service de l'utilité sociale.</p>
+      <ul class="footer-contact">
+        {% if site.data.contact.telephone != "" %}
+        <li><a href="tel:{{ site.data.contact.telephone_lien }}">{{ site.data.contact.telephone }}</a></li>
+        {% endif %}
+        {% if site.data.contact.email != "" %}
+        <li><a href="mailto:{{ site.data.contact.email }}">{{ site.data.contact.email }}</a></li>
+        {% endif %}
+        <li>{{ site.data.contact.zone }}</li>
+      </ul>
+    </div>
+
+    <div>
+      <h2 class="footer-titre">Nos prestations</h2>
+      <ul>
+        {% assign poles = site.prestations | sort: "ordre" %}
+        {% for pole in poles %}
+        <li><a href="{{ pole.url | relative_url }}">{{ pole.title }}</a></li>
+        {% endfor %}
+        {% for s in site.situations limit: 6 %}
+        <li><a href="{{ s.url | relative_url }}">{{ s.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    {% if site.zones.size > 0 %}
+    <div>
+      <h2 class="footer-titre">Zones d'intervention</h2>
+      <ul>
+        {% for zone in site.zones %}
+        <li><a href="{{ zone.url | relative_url }}">{{ zone.title | replace: "Débarras et nettoyage à ", "" }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+
+    <div>
+      <h2 class="footer-titre">Le site</h2>
+      <ul>
+        {% for item in site.data.navigation.pied_de_page %}
+        <li><a href="{{ item.url | relative_url }}">{{ item.label }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+  </div>
+  <div class="conteneur footer-mentions">
+    <p>© {{ site.time | date: "%Y" }} ML Clean Services — SAS. Tous droits réservés.</p>
+  </div>
+</footer>

@@ -1,0 +1,136 @@
+---
+layout: default
+---
+{%- comment -%} ══ Héro ══ {%- endcomment -%}
+<section class="hero">
+  <div class="conteneur hero-grille">
+    <div class="hero-contenu">
+      <p class="hero-badge">Entreprise sociale et solidaire — {{ site.data.contact.zone_courte }}</p>
+      <h1>Nettoyer <span aria-hidden="true">•</span> Vider <span aria-hidden="true">•</span> Redonner</h1>
+      <p class="hero-texte">{{ page.hero_texte }}</p>
+      <div class="hero-actions">
+        <a class="bouton bouton-plein" href="{{ '/contact/' | relative_url }}">Demander un devis gratuit</a>
+        <a class="bouton bouton-contour" href="{{ '/qui-sommes-nous/' | relative_url }}">Découvrir notre démarche</a>
+      </div>
+    </div>
+    <div class="hero-media">
+      {% include visuel.html image=page.hero_image theme="default" titre="ML Clean Services, débarras et nettoyage en Périgord Noir" classe="ratio-4-3" %}
+    </div>
+  </div>
+  <div class="conteneur">
+    <ul class="hero-chiffres">
+      {% for c in site.data.social_proof.chiffres %}
+      <li><strong>{{ c.titre }}</strong><span>{{ c.detail }}</span></li>
+      {% endfor %}
+    </ul>
+  </div>
+</section>
+
+{%- comment -%} ══ Une entreprise sociale, pas comme les autres ══ {%- endcomment -%}
+<section class="bloc-mission">
+  <div class="conteneur mission-grille">
+    <div>
+      <h2>Une entreprise sociale, pas comme les autres</h2>
+      <p>ML Clean Services intervient dans les logements pour les remettre en état
+      après un événement de vie difficile : hospitalisation, perte d'autonomie,
+      décès, situation d'insalubrité.</p>
+      <p><strong>Nous ne faisons pas que nettoyer.</strong> Nous redonnons à chaque
+      personne un cadre de vie digne, sécurisé et respectueux de son histoire.</p>
+      <p class="mission-citation">« Nous proposons un service sur-mesure de proximité
+      permettant aux personnes de se réapproprier leur histoire et leur espace de vie,
+      dans le respect et la dignité de chacun. »</p>
+    </div>
+    <div class="mission-encadre">
+      <h3>Chaque logement remis en état permet…</h3>
+      <ul>
+        <li>à une personne âgée de rester chez elle ;</li>
+        <li>à une famille de retrouver un environnement sain ;</li>
+        <li>à un logement de redevenir habitable et digne.</li>
+      </ul>
+      <p>Nous travaillons en lien avec les CCAS, les services sociaux
+      et les associations du territoire.</p>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ══ Les 3 pôles ══ {%- endcomment -%}
+<section class="bloc-prestations">
+  <div class="conteneur">
+    <h2>Nos prestations</h2>
+    <div class="grille-prestations">
+      {% assign poles = site.prestations | sort: "ordre" %}
+      {% for p in poles %}
+        {% include card-prestation.html pole=p index=forloop.index %}
+      {% endfor %}
+    </div>
+    <p class="note-lieux">Intervention en maison, appartement et dépendances — {{ site.data.contact.zone }}.</p>
+  </div>
+</section>
+
+{%- comment -%} ══ Situations traitées (maillage vers les pages granulaires) ══ {%- endcomment -%}
+{% include situations-liees.html %}
+
+{%- comment -%} ══ Comment ça se passe ══ {%- endcomment -%}
+<section class="bloc-etapes">
+  <div class="conteneur">
+    <h2>Comment ça se passe ?</h2>
+    <ol class="liste-etapes">
+      {% for e in site.data.social_proof.etapes %}
+      <li>
+        <span class="etape-numero" aria-hidden="true">{{ forloop.index }}</span>
+        <h3>{{ e.titre }}</h3>
+        <p>{{ e.description }}</p>
+      </li>
+      {% endfor %}
+    </ol>
+  </div>
+</section>
+
+{%- comment -%} ══ Valeurs ══ {%- endcomment -%}
+{% include valeurs.html %}
+
+{%- comment -%} ══ Bandeau professionnels ══ {%- endcomment -%}
+<section class="bloc-pros">
+  <div class="conteneur cta-inner">
+    <div>
+      <h2>Vous êtes travailleur social, tuteur, professionnel ?</h2>
+      <p>CCAS, services sociaux, tutelles, EHPAD, hôpitaux, professionnels de l'immobilier :
+      un espace vous est dédié, avec un interlocuteur unique et une facturation adaptée.</p>
+    </div>
+    <div class="cta-actions">
+      <a class="bouton bouton-plein" href="{{ '/professionnels/' | relative_url }}">Espace professionnels</a>
+    </div>
+  </div>
+</section>
+
+{%- comment -%} ══ FAQ (SEO + réponses IA) ══ {%- endcomment -%}
+{% if page.faq %}
+<section class="bloc-faq">
+  <div class="conteneur">
+    <h2>Questions fréquentes</h2>
+    {% for item in page.faq %}
+    <details class="faq-item">
+      <summary>{{ item.question }}</summary>
+      <p>{{ item.reponse }}</p>
+    </details>
+    {% endfor %}
+  </div>
+</section>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.question | jsonify }},
+      "acceptedAnswer": { "@type": "Answer", "text": {{ item.reponse | jsonify }} }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
+
+{% include cta-devis.html %}

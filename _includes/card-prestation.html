@@ -1,0 +1,22 @@
+{%- comment -%}
+Carte d'un pôle de prestation, avec emplacement illustré.
+Usage : {% include card-prestation.html pole=p index=forloop.index %}
+{%- endcomment -%}
+<article class="carte-prestation">
+  <a class="carte-media" href="{{ include.pole.url | relative_url }}" tabindex="-1" aria-hidden="true">
+    {% include visuel.html image=include.pole.image theme=include.pole.slug titre=include.pole.title classe="ratio-16-10" %}
+    <span class="carte-numero">{{ include.index }}</span>
+  </a>
+  <div class="carte-corps">
+    <h3><a href="{{ include.pole.url | relative_url }}">{{ include.pole.title }}</a></h3>
+    <p>{{ include.pole.accroche }}</p>
+    {% if include.pole.points %}
+    <ul>
+      {% for point in include.pole.points %}
+      <li>{{ point }}</li>
+      {% endfor %}
+    </ul>
+    {% endif %}
+    <a class="lien-fleche" href="{{ include.pole.url | relative_url }}">En savoir plus</a>
+  </div>
+</article>

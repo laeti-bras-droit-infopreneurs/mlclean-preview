@@ -1,0 +1,16 @@
+# ── Coordonnées ML Clean Services ──
+# Un seul endroit à modifier : tout le site (header, footer, pages) lit ce fichier.
+
+telephone: "07 57 18 80 65"
+telephone_lien: "+33757188065"
+email: "mlcleanservices24@gmail.com"
+
+# Formulaire de devis — Formspree.
+# 1. Créer un compte sur formspree.io avec l'email de ML Clean Services
+# 2. Créer un formulaire, copier son adresse ici.
+# (Basculer vers Web3Forms plus tard = remplacer cette seule ligne
+#  + le champ caché dans _includes/form-devis.html)
+formulaire_endpoint: "https://formspree.io/f/VOTRE_ID" # <!-- À REMPLACER : ID Formspree -->
+
+zone_courte: "Périgord Noir"
+zone: "Sarlat et alentours (rayon d'environ 1 h)"

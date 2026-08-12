@@ -1,0 +1,49 @@
+# ── Navigation principale ──
+# `type: pole`   → menu déroulant d'un pôle (page pilier + ses situations, auto)
+# `type: groupe` → menu déroulant de liens fixes (item.liens)
+# `actif: false` → emplacement réservé, masqué pour l'instant.
+
+principale:
+  - label: L'entreprise
+    type: groupe
+    liens:
+      - label: Qui sommes-nous
+        url: /qui-sommes-nous/
+      - label: Espace professionnels
+        url: /professionnels/
+      - label: Zones d'intervention
+        url: /zones/
+      - label: Ressources & conseils
+        url: /ressources/
+      - label: Questions fréquentes
+        url: /faq/
+  - label: Débarras & vidage
+    type: pole
+    pole: debarras-vidage
+  - label: Nettoyage & désinfection
+    type: pole
+    pole: nettoyage-desinfection
+  - label: Accompagnement
+    type: pole
+    pole: accompagnement
+  - label: Contact & devis
+    url: /contact/
+    cta: true
+
+pied_de_page:
+  - label: Qui sommes-nous
+    url: /qui-sommes-nous/
+  - label: Espace professionnels
+    url: /professionnels/
+  - label: Zones d'intervention
+    url: /zones/
+  - label: Ressources & conseils
+    url: /ressources/
+  - label: Questions fréquentes
+    url: /faq/
+  - label: Contact & devis
+    url: /contact/
+  - label: Mentions légales
+    url: /mentions-legales/
+  # - label: Politique de confidentialité   # phase 2 : décommenter quand le texte RGPD sera inséré
+  #   url: /confidentialite/

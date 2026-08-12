@@ -1,0 +1,30 @@
+# ─────────────────────────────────────────────────────────────
+# Fichiers volontairement NON publiés sur GitHub.
+# Le dépôt étant public, tout ce qui est listé ici reste privé,
+# sur l'ordinateur uniquement.
+# ─────────────────────────────────────────────────────────────
+
+# Documents commerciaux et de travail (devis, présentations, fiches client…)
+# Tous les PDF déposés à la racine du projet restent privés.
+# Un PDF destiné au site (plaquette à télécharger…) se dépose dans assets/.
+/*.pdf
+
+# Exports de supports imprimés (plaquettes, flyers) à la racine — privés.
+# Les images du site vivent dans assets/img/ et restent publiées normalement.
+/Plaquette-*.png
+/Flyer-*.png
+/*.docx
+/*.xlsx
+/brouillons/
+
+# Fichiers générés automatiquement par Jekyll
+_site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+vendor/
+
+# Fichiers système
+Thumbs.db
+.DS_Store
+desktop.ini

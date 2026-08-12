@@ -1,0 +1,33 @@
+{%- comment -%}
+Visuel d'une carte ou d'un en-tête.
+- Si `image` est fournie (chemin dans assets/img/), la photo réelle est affichée.
+- Sinon, un emplacement illustré (dégradé de la charte + icône selon `theme`)
+  réserve la place. Déposer une photo et renseigner `image:` la remplacera.
+Paramètres : image, theme (slug de pôle / "zone" / défaut), titre, classe.
+Les dégradés (grad-bleu, grad-vert) sont définis une fois dans le layout default.
+{%- endcomment -%}
+{% assign theme = include.theme %}
+{% if theme == "accompagnement" %}{% assign grad = "grad-vert" %}{% else %}{% assign grad = "grad-bleu" %}{% endif %}
+<div class="visuel {{ include.classe }}">
+  {% if include.image and include.image != "" %}
+  <img src="{{ include.image | relative_url }}" alt="{{ include.titre | escape }}" loading="lazy">
+  {% else %}
+  <svg class="visuel-ph" viewBox="0 0 800 500" preserveAspectRatio="xMidYMid slice" role="img" aria-label="{{ include.titre | escape }}">
+    <rect width="800" height="500" fill="url(#{{ grad }})"/>
+    <g fill="none" stroke="#ffffff" stroke-opacity="0.38" stroke-width="11" stroke-linecap="round" stroke-linejoin="round">
+      {% case theme %}
+      {% when "debarras-vidage" %}
+        <path d="M340 252 v70 h120 v-70"/><path d="M326 232 h148 l-14 20 h-120 z"/><path d="M400 252 v70"/>
+      {% when "nettoyage-desinfection" %}
+        <path d="M400 200 C352 262 358 308 400 308 C442 308 448 262 400 200 Z"/><path d="M400 262 a18 18 0 0 1 -18 18"/>
+      {% when "accompagnement" %}
+        <path d="M400 306 C336 260 348 206 400 240 C452 206 464 260 400 306 Z"/>
+      {% when "zone" %}
+        <path d="M400 196 C358 196 332 226 332 262 C332 308 400 322 400 322 C400 322 468 308 468 262 C468 226 442 196 400 196 Z"/><circle cx="400" cy="258" r="20"/>
+      {% else %}
+        <path d="M328 254 L400 196 L472 254"/><path d="M346 252 v68 h108 v-68"/><path d="M386 320 v-38 h28 v38"/>
+      {% endcase %}
+    </g>
+  </svg>
+  {% endif %}
+</div>

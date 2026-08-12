@@ -1,0 +1,27 @@
+{%- comment -%}
+Méga-menu « Nos prestations » : entièrement généré depuis les collections.
+Ajouter un fichier dans _situations/ suffit pour qu'il apparaisse ici,
+rattaché à son pôle via son front-matter `pole:`.
+{%- endcomment -%}
+<div class="sous-menu mega">
+  <div class="mega-grille">
+    {% assign poles = site.prestations | sort: "ordre" %}
+    {% for pole in poles %}
+    <div class="mega-colonne">
+      <a class="mega-titre" href="{{ pole.url | relative_url }}">{{ pole.title }}</a>
+      <p class="mega-accroche">{{ pole.accroche }}</p>
+      {% assign enfants = site.situations | where: "pole", pole.slug %}
+      {% if enfants.size > 0 %}
+      <ul>
+        {% for s in enfants %}
+        <li><a href="{{ s.url | relative_url }}">{{ s.title }}</a></li>
+        {% endfor %}
+      </ul>
+      {% endif %}
+    </div>
+    {% endfor %}
+  </div>
+  <div class="mega-pied">
+    <a href="{{ '/contact/' | relative_url }}">Une situation particulière ? Parlons-en → </a>
+  </div>
+</div>

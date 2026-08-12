@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="fr">
+{% include head.html %}
+<body>
+  <a class="skip-link" href="#contenu">Aller au contenu</a>
+
+  {%- comment -%} Dégradés partagés par les emplacements illustrés (include visuel.html) {%- endcomment -%}
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true" focusable="false">
+    <defs>
+      <linearGradient id="grad-bleu" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#1c3a5e"/>
+        <stop offset="1" stop-color="#2e7fb5"/>
+      </linearGradient>
+      <linearGradient id="grad-vert" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#4e8228"/>
+        <stop offset="1" stop-color="#6faf3f"/>
+      </linearGradient>
+    </defs>
+  </svg>
+
+  {% include header.html %}
+  <main id="contenu">
+    {{ content }}
+  </main>
+  {% include footer.html %}
+  <script src="{{ '/assets/js/menu.js' | relative_url }}"></script>
+</body>
+</html>

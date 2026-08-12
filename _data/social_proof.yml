@@ -1,0 +1,36 @@
+# ── Engagements, valeurs et déroulement ──
+# Source : plaquette commerciale ML Clean Services.
+
+chiffres:
+  - titre: "Devis sous 72 h"
+    detail: "Gratuit et sans engagement, après visite sur place."
+  - titre: "Intervention sous 7 jours"
+    detail: "Une équipe locale, réactive et discrète."
+  - titre: "Facturation possible à un tiers"
+    detail: "Tutelle, famille, organisme : nous nous adaptons." # <!-- À VÉRIFIER : formulation exacte de la plaquette -->
+
+valeurs:
+  - nom: Dignité
+    description: >-
+      Interventions discrètes, dans le respect des lieux et des personnes.
+      Jamais de jugement : chaque histoire mérite d'être traitée avec soin.
+  - nom: Utilité sociale
+    description: >-
+      Chaque chantier a un impact social concret : maintien à domicile,
+      retour à un logement digne, soulagement des familles.
+  - nom: Professionnalisme
+    description: >-
+      Équipe formée, matériel adapté, transparence des devis
+      et engagement sur les délais.
+
+etapes:
+  - titre: Contact & visite
+    description: "Échange téléphonique, puis visite gratuite sur place pour comprendre la situation."
+  - titre: Devis clair
+    description: "Proposition détaillée, transparente et sans engagement, sous 72 h."
+  - titre: Intervention
+    description: "Équipe professionnelle, discrétion garantie, respect des lieux et des personnes."
+  - titre: Suivi
+    description: "Point après intervention et coordination avec les intervenants sociaux si besoin."
+
+types_lieux: "Maison, appartement, dépendances"
