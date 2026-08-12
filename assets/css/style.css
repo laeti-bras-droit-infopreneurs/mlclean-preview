@@ -169,13 +169,13 @@ section { padding: 3.5rem 0; }
 
 /* Titres de sections : calligraphie de la plaquette (soulignés de vert) */
 .bloc-mission h2, .bloc-prestations h2, .bloc-etapes h2, .bloc-valeurs h2,
-.situations-liees h2, .bloc-faq h2, .autres-poles h2 {
+.situations-liees h2, .bloc-faq h2, .autres-poles h2, .bloc-avant-apres h2 {
   font-family: "Style Script", "Segoe Script", cursive;
   font-weight: 400; font-size: clamp(2.1rem, 4.5vw, 2.9rem); line-height: 1.1;
 }
 .bloc-mission h2::after, .bloc-prestations h2::after, .bloc-etapes h2::after,
 .bloc-valeurs h2::after, .situations-liees h2::after, .bloc-faq h2::after,
-.autres-poles h2::after {
+.autres-poles h2::after, .bloc-avant-apres h2::after {
   content: ""; display: block; width: 72px; height: 3px;
   background: var(--vert); border-radius: 2px; margin-top: 0.4rem;
 }
