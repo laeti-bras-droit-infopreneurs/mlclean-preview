@@ -86,9 +86,9 @@ blockquote {
   border-bottom: 1px solid var(--bordure);
   position: sticky; top: 0; z-index: 50;
 }
-.header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; min-height: 84px; }
+.header-inner { display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; min-height: 82px; }
 .logo { text-decoration: none; display: flex; align-items: center; }
-.logo-img { width: auto; height: 62px; display: block; }
+.logo-img { width: auto; height: 50px; display: block; }
 
 .burger { display: none; background: none; border: 0; padding: 0.5rem; cursor: pointer; }
 .burger span { display: block; width: 26px; height: 3px; background: var(--bleu-nuit); margin: 5px 0; border-radius: 2px; }
@@ -352,8 +352,8 @@ section { padding: 3.5rem 0; }
   .a-sous-menu:hover > .sous-menu { display: none; }
   .a-sous-menu.ouvert > .sous-menu { display: block; }
 
-  .header-inner { min-height: 70px; }
-  .logo-img { height: 48px; }
+  .header-inner { min-height: 68px; }
+  .logo-img { height: 40px; }
 
   .grille-prestations, .grille-situations, .grille-valeurs, .liste-etapes, .hero-chiffres { grid-template-columns: 1fr; }
   .form-ligne { grid-template-columns: 1fr; gap: 0; }
