@@ -14,6 +14,13 @@ heure de route. La visite d'évaluation est **gratuite dans toute notre zone**,
 et notre implantation locale nous permet d'intervenir vite et d'assurer un
 vrai suivi dans le temps.
 
+<figure class="carte-secteur">
+  <img src="{{ '/assets/img/carte-zone.png' | relative_url }}"
+       alt="Carte de la zone d'intervention : Dordogne, Corrèze et Lot autour de Sarlat"
+       width="420" height="330" loading="lazy">
+  <figcaption><strong>Sarlat</strong>, 1 heure autour — Dordogne, Lot, Corrèze</figcaption>
+</figure>
+
 <div class="grille-situations">
 {% for z in site.zones %}
   <a class="carte-situation" href="{{ z.url | relative_url }}">

@@ -17,7 +17,8 @@
   --blanc: #ffffff;
   --bordure: #dbe6ee;
 
-  --police: "Nunito Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  /* Texte : Helvetica (Arial en relais, métriquement identique) */
+  --police: "Helvetica Neue", Helvetica, Arial, "Liberation Sans", sans-serif;
   --rayon: 8px;
   --ombre: 0 2px 12px rgba(28, 58, 94, 0.08);
   --ombre-forte: 0 12px 32px rgba(28, 58, 94, 0.16);
@@ -179,10 +180,34 @@ section { padding: 3.5rem 0; }
   background: var(--vert); border-radius: 2px; margin-top: 0.4rem;
 }
 
-/* Liste « cœurs » de la plaquette (événements de vie, publics) */
-.liste-coeurs { list-style: none; padding: 0; margin: 0.75rem 0 1rem; }
-.liste-coeurs li { padding-left: 1.5rem; position: relative; margin-bottom: 0.4rem; }
-.liste-coeurs li::before { content: "♥"; position: absolute; left: 0; top: 0; color: var(--vert); }
+/* Listes illustrées avec les icônes de la plaquette */
+.liste-evenements { list-style: none; padding: 0; margin: 0.9rem 0 1.25rem; display: grid; gap: 0.6rem; }
+.liste-evenements li { display: flex; align-items: center; gap: 0.75rem; font-weight: 600; color: var(--encre); }
+.liste-evenements img { width: 30px; height: auto; flex: none; }
+
+.liste-publics { list-style: none; padding: 0; margin: 1rem 0 1.25rem; display: grid; gap: 1rem; }
+.liste-publics li { display: flex; align-items: flex-start; gap: 0.9rem; }
+.liste-publics img { width: 52px; height: auto; flex: none; }
+.liste-publics span { font-size: 0.97rem; }
+
+.carte-secteur { margin: 1.75rem 0; text-align: center; }
+.carte-secteur img { max-width: 380px; width: 100%; height: auto; }
+.carte-secteur figcaption { font-size: 0.9rem; color: var(--texte); margin-top: 0.4rem; }
+.carte-secteur figcaption strong { color: var(--bleu-nuit); }
+
+.mission-paysage { margin: 1.5rem 0; }
+.mission-paysage img { width: 100%; height: auto; display: block; border-radius: var(--rayon); }
+
+/* Avant / après */
+.bloc-avant-apres { background: var(--fond); }
+.avant-apres-grille { display: grid; grid-template-columns: 0.9fr 1.1fr; gap: 3rem; align-items: center; }
+.avant-apres-grille figure { margin: 0; }
+.avant-apres-grille img { width: 100%; height: auto; display: block; }
+.avant-apres-grille .bouton { margin-top: 0.5rem; }
+
+/* Étapes : numéro + icône de la plaquette */
+.etape-tete { display: flex; align-items: center; justify-content: space-between; gap: 0.75rem; margin-bottom: 0.75rem; }
+.etape-icone { width: 48px; height: auto; opacity: 0.95; }
 .bloc-mission { background: var(--fond); }
 .mission-grille { display: grid; grid-template-columns: 3fr 2fr; gap: 3rem; align-items: start; }
 .mission-citation {
@@ -339,6 +364,7 @@ section { padding: 3.5rem 0; }
   .footer-grille { grid-template-columns: 1fr 1fr; }
   .hero { padding: 3.5rem 0 4rem; }
   .hero-contenu { max-width: 100%; }
+  .avant-apres-grille { grid-template-columns: 1fr; gap: 2rem; }
 }
 
 @media (max-width: 760px) {

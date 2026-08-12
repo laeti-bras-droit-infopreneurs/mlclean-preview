@@ -32,15 +32,35 @@ valeurs:
       Un interlocuteur unique, une mise en lien et en confiance
       avant et pendant l'intervention.
 
-# Le déroulement en 4 étapes (plaquette)
+# Le déroulement en 4 étapes (plaquette) — icônes reprises du support imprimé
 etapes:
   - titre: Contact & visite
     description: "Téléphone, site internet, mail. RDV pour visite sur place, constat, échanges."
+    icone: /assets/img/etape-1.png
   - titre: Devis clair
     description: "Proposition détaillée sous 72 h, transparente et sans engagement."
+    icone: /assets/img/etape-2.png
   - titre: Intervention sur mesure
     description: "Équipe professionnelle, discrétion assurée."
+    icone: /assets/img/etape-3.png
   - titre: Suivi
     description: "Auprès du prescripteur et/ou du client bénéficiaire."
+    icone: /assets/img/etape-4.png
+
+# Les publics de la plaquette (« Un logement digne, un projet de vie qui repart »)
+publics:
+  - icone: /assets/img/ico-personne.png
+    texte: "Pour les personnes désirant rester chez elles en se réappropriant leur habitation."
+  - icone: /assets/img/ico-famille.png
+    texte: "Pour une famille souhaitant retrouver un environnement sain."
+  - icone: /assets/img/ico-maison.png
+    texte: "Pour toute personne ayant traversé un changement ou un accident de vie, désirant réécrire une nouvelle histoire."
+
+# Les événements de vie (icône « mains » de la plaquette)
+evenements:
+  - "Décès, succession"
+  - "Séparation, divorce"
+  - "Perte d'autonomie"
+  - "Situation de syllogomanie, insalubrité"
 
 types_lieux: "Maison, appartement, dépendances"

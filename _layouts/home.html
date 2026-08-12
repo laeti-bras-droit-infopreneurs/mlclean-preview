@@ -36,12 +36,15 @@ layout: default
       <p><strong>ML Clean Services ne fait pas que débarrasser, désinfecter et
       nettoyer.</strong> Nous redonnons un cadre de vie digne, en coopération avec
       vous, après les événements de la vie :</p>
-      <ul class="liste-coeurs">
-        <li>décès, succession ;</li>
-        <li>séparation, divorce ;</li>
-        <li>perte d'autonomie ;</li>
-        <li>situation de syllogomanie, insalubrité.</li>
+      <ul class="liste-evenements">
+        {% for e in site.data.social_proof.evenements %}
+        <li><img src="{{ '/assets/img/ico-main.png' | relative_url }}" alt="" width="30" height="28">{{ e }}</li>
+        {% endfor %}
       </ul>
+      <figure class="mission-paysage">
+        <img src="{{ '/assets/img/paysage-dordogne.jpg' | relative_url }}"
+             alt="La vallée de la Dordogne, en Périgord Noir" width="1000" height="525" loading="lazy">
+      </figure>
       <p class="mission-citation"><strong>Pourquoi nous ?</strong><br>« Notre souhait
       le plus profond est de vous aider et vous accompagner à rester chez vous :
       à sortir de l'isolement, à préparer votre bien pour une nouvelle vie,
@@ -49,12 +52,13 @@ layout: default
     </div>
     <div class="mission-encadre">
       <h3>Un logement digne, un projet de vie qui repart.</h3>
-      <ul class="liste-coeurs">
-        <li>Pour les personnes désirant rester chez elles en se réappropriant
-        leur habitation.</li>
-        <li>Pour une famille souhaitant retrouver un environnement sain.</li>
-        <li>Pour toute personne ayant traversé un changement ou un accident de
-        vie, désirant réécrire une nouvelle histoire.</li>
+      <ul class="liste-publics">
+        {% for p in site.data.social_proof.publics %}
+        <li>
+          <img src="{{ p.icone | relative_url }}" alt="" width="56" height="56">
+          <span>{{ p.texte }}</span>
+        </li>
+        {% endfor %}
       </ul>
       <p>ML Clean Services est engagée dans l'économie sociale et solidaire,
       à vos côtés pour les situations extrêmes d'habitats dégradés.</p>
@@ -86,12 +90,35 @@ layout: default
     <ol class="liste-etapes">
       {% for e in site.data.social_proof.etapes %}
       <li>
-        <span class="etape-numero" aria-hidden="true">{{ forloop.index }}</span>
+        <div class="etape-tete">
+          <span class="etape-numero" aria-hidden="true">{{ forloop.index }}</span>
+          {% if e.icone %}<img class="etape-icone" src="{{ e.icone | relative_url }}" alt="" width="52" height="52">{% endif %}
+        </div>
         <h3>{{ e.titre }}</h3>
         <p>{{ e.description }}</p>
       </li>
       {% endfor %}
     </ol>
+  </div>
+</section>
+
+{%- comment -%} ══ Avant / après (visuel de la plaquette) ══ {%- endcomment -%}
+<section class="bloc-avant-apres">
+  <div class="conteneur avant-apres-grille">
+    <div>
+      <h2>Avant, après</h2>
+      <p>Un logement que l'on croyait perdu redevient un lieu de vie. C'est tout
+      le sens de notre métier : <strong>redonner un cadre digne</strong>, pas
+      seulement faire propre.</p>
+      <p>Chaque intervention est menée avec discrétion, sans jugement, et dans le
+      respect des personnes comme de leur histoire.</p>
+      <a class="bouton bouton-plein" href="{{ '/contact/' | relative_url }}">Demander un devis gratuit</a>
+    </div>
+    <figure>
+      <img src="{{ '/assets/img/avant-apres.jpg' | relative_url }}"
+           alt="Une cuisine encombrée avant intervention, puis remise en état après le passage de ML Clean Services"
+           width="900" height="752" loading="lazy">
+    </figure>
   </div>
 </section>
 
