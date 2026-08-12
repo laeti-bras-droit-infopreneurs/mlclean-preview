@@ -11,7 +11,7 @@ description: >-
 ---
 
 Dans nos campagnes du Périgord, les maisons ont de la mémoire : caves
-voûtées, greniers sous les toits, granges, appentis — des espaces qui se
+voûtées, greniers sous les toits, granges, appentis, des espaces qui se
 remplissent au fil des générations et qu'on finit par ne plus oser ouvrir.
 Vider ces espaces demande des bras, de la méthode… et un certain respect pour
 ce qu'on y trouve.
@@ -27,7 +27,7 @@ ce qu'on y trouve.
 
 ## Le tri : notre valeur ajoutée
 
-Ces espaces réservent des surprises — dans les deux sens. Notre engagement :
+Ces espaces réservent des surprises, dans les deux sens. Notre engagement :
 
 - les **objets anciens et de valeur** (meubles, outils, vaisselle, livres)
   sont signalés au propriétaire, jamais évacués sans accord ;

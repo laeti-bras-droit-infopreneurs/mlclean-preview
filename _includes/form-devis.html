@@ -1,5 +1,5 @@
 {%- comment -%}
-Formulaire de contact / devis — envoi par email via Formspree (site statique).
+Formulaire de contact / devis, envoi par email via Formspree (site statique).
 Une fois l'endpoint renseigné dans _data/contact.yml, chaque soumission arrive
 directement dans la boîte mail de l'entreprise (celle du compte Formspree).
 - `email` du demandeur = adresse de réponse (répondre au mail = répondre au client)
@@ -9,7 +9,7 @@ Usage : {% include form-devis.html origine="contact" %}
 {%- endcomment -%}
 <form class="form-devis" action="{{ site.data.contact.formulaire_endpoint }}" method="POST">
   <input type="hidden" name="origine" value="{{ include.origine | default: 'site' }}">
-  <input type="hidden" name="_subject" value="Nouvelle demande de devis — ML Clean Services">
+  <input type="hidden" name="_subject" value="Nouvelle demande de devis, ML Clean Services">
   <input type="hidden" name="_next" value="{{ site.url }}{{ site.baseurl }}/merci/">
   <input type="text" name="_gotcha" style="display:none" tabindex="-1" autocomplete="off">
 
@@ -39,7 +39,7 @@ Usage : {% include form-devis.html origine="contact" %}
     <div class="form-champ">
       <label for="f-profil">Vous êtes *</label>
       <select id="f-profil" name="profil" required>
-        <option value="">— Choisir —</option>
+        <option value="">Choisir…</option>
         <option>Particulier / famille</option>
         <option>Travailleur social / CCAS</option>
         <option>Tutelle / curatelle</option>
@@ -51,7 +51,7 @@ Usage : {% include form-devis.html origine="contact" %}
     <div class="form-champ">
       <label for="f-besoin">Votre besoin *</label>
       <select id="f-besoin" name="besoin" required>
-        <option value="">— Choisir —</option>
+        <option value="">Choisir…</option>
         <option>Débarras / vidage de logement</option>
         <option>Nettoyage / désinfection</option>
         <option>Débarras + nettoyage</option>

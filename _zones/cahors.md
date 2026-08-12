@@ -9,7 +9,7 @@ description: >-
   Devis gratuit sous 72 h, intervention sous 7 jours.
 ---
 
-Préfecture du Lot, Cahors est à environ une heure de route de Sarlat — dans
+Préfecture du Lot, Cahors est à environ une heure de route de Sarlat, dans
 notre zone d'intervention. Habitants du Quercy, familles gérant une maison à
 distance, professionnels du secteur cadurcien : nous nous déplaçons avec les
 mêmes services et les mêmes engagements que dans le Périgord Noir.
@@ -27,7 +27,7 @@ mêmes services et les mêmes engagements que dans le Périgord Noir.
 
 ## Familles éloignées : nous sommes vos yeux sur place
 
-Beaucoup de maisons du Quercy appartiennent à des familles qui vivent loin —
+Beaucoup de maisons du Quercy appartiennent à des familles qui vivent loin,
 et gérer à distance un débarras de succession ou la remise en état du logement
 d'un parent est un casse-tête. Notre fonctionnement est prévu pour :
 visite d'évaluation documentée par photos, échanges par téléphone et email,
@@ -39,7 +39,7 @@ instructions.
 CCAS, travailleurs sociaux, mandataires judiciaires, agences immobilières du
 secteur de Cahors : notre
 [espace professionnels]({{ '/professionnels/' | relative_url }}) détaille nos
-engagements — devis sous 72 h transmissible au dossier, intervention sous
+engagements, devis sous 72 h transmissible au dossier, intervention sous
 7 jours, interlocuteur unique.
 
 Visite gratuite à Cahors et dans le Quercy : décrivez-nous votre situation

@@ -10,7 +10,7 @@ description: >-
   avec les services sociaux. Devis gratuit sous 72 h.
 ---
 
-L'incurie désigne l'abandon progressif de l'entretien du logement — et souvent
+L'incurie désigne l'abandon progressif de l'entretien du logement, et souvent
 de soi. Vaisselle et déchets qui s'entassent, ménage abandonné depuis des mois
 ou des années, courrier non ouvert : la personne « laisse aller », dépassée
 par une dépression, un deuil, une maladie, un isolement.
@@ -27,11 +27,11 @@ dégrader longtemps avant qu'un proche ou un professionnel ne s'en aperçoive.
 - factures impayées, rendez-vous manqués.
 
 Si vous êtes un proche : la culpabilisation ne fonctionne pas. Ce qu'il faut,
-c'est une main tendue — et des professionnels habitués à ces situations.
+c'est une main tendue, et des professionnels habitués à ces situations.
 
 ## Notre intervention
 
-1. **Évaluation gratuite et sans jugement** — nous avons l'habitude : aucun
+1. **Évaluation gratuite et sans jugement**, nous avons l'habitude : aucun
    logement ne nous choque, aucune situation n'est « honteuse ».
 2. **Remise en état complète** : évacuation des déchets, tri et préservation
    des effets personnels et documents importants, nettoyage de fond,
@@ -41,7 +41,7 @@ c'est une main tendue — et des professionnels habitués à ces situations.
    l'aider à se réapproprier son espace de vie.
 4. **Relais et suivi** : nous travaillons en lien avec les CCAS, les services
    sociaux et les aides à domicile pour que la remise en état s'inscrive dans
-   un accompagnement durable — pas un coup d'éclat sans lendemain.
+   un accompagnement durable, pas un coup d'éclat sans lendemain.
 
 ## L'incurie n'est pas une fatalité
 

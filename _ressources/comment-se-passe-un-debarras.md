@@ -10,7 +10,7 @@ description: >-
 ---
 
 Vous n'avez jamais fait appel à une entreprise de débarras et vous vous
-demandez comment ça se passe ? Voici le déroulement type — et les questions
+demandez comment ça se passe ? Voici le déroulement type, et les questions
 qui vous éviteront les mauvaises surprises.
 
 ## Les 4 étapes d'un débarras
@@ -32,8 +32,8 @@ qui vous éviteront les mauvaises surprises.
 ## Combien ça coûte ?
 
 Le prix dépend de trois facteurs : le **volume** à évacuer, **l'accessibilité**
-(étage, escaliers, distance de stationnement) et la **valorisation possible**
-— les objets donnés ou recyclés coûtent moins cher à traiter que ce qui part
+(étage, escaliers, distance de stationnement) et la **valorisation possible**,
+les objets donnés ou recyclés coûtent moins cher à traiter que ce qui part
 en déchetterie. C'est pourquoi un tri soigné réduit la facture : chez ML Clean
 Services, c'est systématique.
 
@@ -41,7 +41,7 @@ Services, c'est systématique.
 
 - La visite et le devis sont-ils gratuits ?
 - Le devis est-il ferme, ou « ajustable » après coup ?
-- Que deviennent les objets — tout part-il en benne, ou y a-t-il don et
+- Que deviennent les objets, tout part-il en benne, ou y a-t-il don et
   recyclage ?
 - Qui retrouve et conserve les papiers importants ?
 - L'entreprise est-elle assurée ?
@@ -51,7 +51,7 @@ Services, c'est systématique.
 
 Notre page [débarras & vidage de logement]({{ '/prestations/debarras-vidage/' | relative_url }})
 détaille notre méthode. L'essentiel tient en une phrase : nous débarrassons
-des logements, jamais des histoires — ce qui compte pour vous est préservé.
+des logements, jamais des histoires, ce qui compte pour vous est préservé.
 
 [Demandez votre visite gratuite]({{ '/contact/' | relative_url }}) : devis
 sous 72 h, intervention possible sous 7 jours à Sarlat et alentours.

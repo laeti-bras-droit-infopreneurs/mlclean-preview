@@ -12,7 +12,7 @@ description: >-
 Deuxième ville de Dordogne, Bergerac et son bassin font partie de notre zone
 d'intervention. Depuis Sarlat, notre équipe se déplace dans le Bergeracois
 pour les débarras, les nettoyages spécialisés et les situations d'habitat
-dégradé — avec la même visite d'évaluation gratuite qu'ailleurs.
+dégradé, avec la même visite d'évaluation gratuite qu'ailleurs.
 
 ## Ce que nous faisons à Bergerac
 
@@ -29,7 +29,7 @@ dégradé — avec la même visite d'évaluation gratuite qu'ailleurs.
 
 CCAS, travailleurs sociaux, mandataires judiciaires, agences immobilières et
 bailleurs du secteur de Bergerac : nos engagements s'appliquent partout dans
-notre zone — devis sous 72 h transmissible à votre organisme, intervention
+notre zone, devis sous 72 h transmissible à votre organisme, intervention
 sous 7 jours, compte rendu d'intervention. Consultez notre
 [espace professionnels]({{ '/professionnels/' | relative_url }}).
 

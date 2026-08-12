@@ -10,7 +10,7 @@ description: >-
   tiers, devis transmissible. On vous aide à y voir clair.
 ---
 
-« Combien ça coûte, et qui peut payer ? » — c'est souvent la première
+« Combien ça coûte, et qui peut payer ? », c'est souvent la première
 inquiétude, et elle est légitime : une remise en état de logement représente
 un budget. Bonne nouvelle : selon la situation, **plusieurs solutions de
 financement peuvent exister**, et notre facturation s'adapte à chacune.
@@ -41,15 +41,15 @@ mais nous savons vous orienter vers les bons interlocuteurs.*
 
 ## Ce que nous faisons concrètement pour vous aider
 
-1. **Un devis clair, gratuit, sous 72 h** — détaillé poste par poste, au
+1. **Un devis clair, gratuit, sous 72 h**, détaillé poste par poste, au
    format attendu par les organismes et les juges des tutelles.
-2. **La facturation à un tiers** : tutelle, famille, organisme — nous nous
+2. **La facturation à un tiers** : tutelle, famille, organisme, nous nous
    adaptons au montage de votre dossier.
 3. **L'orientation** : si vous ne savez pas par où commencer, nous vous
    indiquons qui contacter (CCAS de votre commune, assistante sociale de
    secteur), forts de notre expérience du travail social.
 4. **Un coût maîtrisé** : le tri et la valorisation par le don réduisent les
-   volumes en déchetterie — et donc la facture.
+   volumes en déchetterie, et donc la facture.
 
 Parlez-nous de votre situation via la
 [page contact]({{ '/contact/' | relative_url }}) : la visite d'évaluation est

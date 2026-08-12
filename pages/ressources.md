@@ -10,7 +10,7 @@ description: >-
 
 Familles, proches, professionnels : ces guides pratiques rassemblent ce que
 notre expérience de terrain nous a appris. Ils sont là pour vous aider à
-comprendre, à agir — et à savoir quand passer le relais à des professionnels.
+comprendre, à agir, et à savoir quand passer le relais à des professionnels.
 
 <div class="grille-situations">
 {% for article in site.ressources %}

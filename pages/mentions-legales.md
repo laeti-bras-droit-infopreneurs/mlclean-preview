@@ -25,8 +25,8 @@ Contact : <!-- À COMPLÉTER : email et téléphone -->
 ## Hébergement
 
 Ce site est hébergé par :
-**GitHub, Inc.** — 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107,
-États-Unis — [github.com](https://github.com)
+**GitHub, Inc.**, 88 Colin P. Kelly Jr. Street, San Francisco, CA 94107,
+États-Unis, [github.com](https://github.com)
 
 ## Propriété intellectuelle
 
@@ -46,4 +46,4 @@ l'adresse indiquée ci-dessus.
 ## Crédits
 
 Photographies : <!-- À COMPLÉTER : crédits photos -->
-Conception du site : Laetitia Miguez — assistante virtuelle.
+Conception du site : Laetitia Miguez, assistante virtuelle.

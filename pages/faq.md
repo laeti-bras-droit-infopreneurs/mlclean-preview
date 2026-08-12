@@ -21,13 +21,13 @@ détaillé sous 72 h**.
 
 ### La visite et le devis sont-ils vraiment gratuits ?
 
-Oui, intégralement, et sans engagement — dans toute notre zone d'intervention
+Oui, intégralement, et sans engagement, dans toute notre zone d'intervention
 (Sarlat et alentours, rayon d'environ 1 h).
 
 ### Le devis peut-il augmenter après coup ?
 
 Non : notre devis est ferme. C'est précisément l'intérêt de la visite
-préalable — nous évaluons le chantier réel, pas une estimation au téléphone.
+préalable, nous évaluons le chantier réel, pas une estimation au téléphone.
 
 ### Qui peut payer l'intervention ?
 
@@ -54,7 +54,7 @@ devis.
 
 Non, pas nécessairement. Beaucoup de nos clients (familles éloignées,
 professionnels) nous confient les clés. À l'inverse, quand la personne vit
-dans le logement, sa présence et sa participation sont les bienvenues — c'est
+dans le logement, sa présence et sa participation sont les bienvenues, c'est
 même le cœur de notre approche.
 
 ## Le sort des objets
@@ -76,7 +76,7 @@ les tutelles et successions).
 
 Nous ne sommes pas brocanteurs : nous ne rachetons pas d'objets. En revanche,
 si des objets de valeur sont identifiés lors de la visite, nous vous le
-signalons — libre à vous de les faire estimer avant le débarras.
+signalons, libre à vous de les faire estimer avant le débarras.
 
 ## Confidentialité et respect
 
@@ -88,7 +88,7 @@ sont confiées restent strictement confidentielles.
 
 ### La personne concernée sera-t-elle « jugée » ?
 
-Jamais. Notre équipe est formée aux situations de fragilité — syndrome de
+Jamais. Notre équipe est formée aux situations de fragilité, syndrome de
 Diogène, incurie, syllogomanie. Aucun logement ne nous choque. Notre règle :
 la personne d'abord, son histoire respectée, son rythme accepté.
 
@@ -97,7 +97,7 @@ la personne d'abord, son histoire respectée, son rythme accepté.
 ### Où intervenez-vous ?
 
 À **Sarlat-la-Canéda et dans les alentours, dans un rayon d'environ une
-heure** — voir nos pages par ville dans le menu « Zones d'intervention ».
+heure**, voir nos pages par ville dans le menu « Zones d'intervention ».
 
 ### Travaillez-vous avec les CCAS, tutelles et services sociaux ?
 
@@ -115,5 +115,5 @@ dératisation et désinsectisation.
 ---
 
 Votre question n'est pas dans la liste ?
-[Posez-la nous directement]({{ '/contact/' | relative_url }}) — réponse
+[Posez-la nous directement]({{ '/contact/' | relative_url }}), réponse
 rapide, même si votre projet n'est pas encore défini.

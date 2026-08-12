@@ -10,7 +10,7 @@ sans_cta: true
 ---
 
 Chaque situation est unique : le plus simple est d'en parler. Décrivez-nous
-votre besoin en quelques mots — nous vous recontactons rapidement pour
+votre besoin en quelques mots, nous vous recontactons rapidement pour
 convenir d'une **visite d'évaluation gratuite**, suivie d'un **devis détaillé
 sous 72 h**, sans engagement.
 
@@ -31,7 +31,7 @@ sous 72 h**, sans engagement.
 ## Et ensuite ?
 
 1. **Nous vous rappelons** pour comprendre la situation et convenir d'une visite.
-2. **Visite gratuite sur place** — sans engagement, en toute discrétion.
+2. **Visite gratuite sur place**, sans engagement, en toute discrétion.
 3. **Devis détaillé sous 72 h**, transmissible à un organisme si besoin.
 4. **Intervention sous 7 jours** après validation.
 

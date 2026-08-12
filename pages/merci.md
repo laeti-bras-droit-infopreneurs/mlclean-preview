@@ -21,7 +21,7 @@ En attendant, vous pouvez :
 - en savoir plus sur [notre démarche]({{ '/qui-sommes-nous/' | relative_url }})
   d'entreprise sociale et solidaire.
 
-*Votre demande est urgente ? N'hésitez pas à nous appeler directement —
+*Votre demande est urgente ? N'hésitez pas à nous appeler directement,
 nos coordonnées figurent en bas de chaque page.*
 
 <p><a class="bouton bouton-plein" href="{{ '/' | relative_url }}">Retour à l'accueil</a></p>

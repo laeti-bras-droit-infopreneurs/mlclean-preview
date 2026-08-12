@@ -13,7 +13,7 @@ description: >-
 Une hospitalisation laisse souvent le logement en suspens : nourriture restée
 dans le réfrigérateur, ménage interrompu, parfois une situation déjà dégradée
 avant l'hospitalisation et que le séjour à l'hôpital a révélée. Or **un retour
-à domicile réussi commence par un logement accueillant** — propre, sain,
+à domicile réussi commence par un logement accueillant**, propre, sain,
 sécurisé.
 
 ## Pour qui intervenons-nous ?
@@ -25,7 +25,7 @@ sécurisé.
   plan d'accompagnement.
 
 Nos délais sont pensés pour ces situations : **devis sous 72 h, intervention
-sous 7 jours** — compatible avec la préparation d'une sortie d'hospitalisation.
+sous 7 jours**, compatible avec la préparation d'une sortie d'hospitalisation.
 
 ## Ce que nous faisons
 
@@ -44,7 +44,7 @@ sous 7 jours** — compatible avec la préparation d'une sortie d'hospitalisatio
 Le retour à domicile est souvent le bon moment pour mettre en place un
 [entretien régulier]({{ '/situations/maintien-a-domicile/' | relative_url }})
 en lien avec les aides à domicile, pour que le logement reste un allié du
-rétablissement — pas une source de rechute.
+rétablissement, pas une source de rechute.
 
 Nous intervenons à Sarlat et alentours. Visite gratuite, facturation à un
 tiers possible (famille, tutelle, organisme).

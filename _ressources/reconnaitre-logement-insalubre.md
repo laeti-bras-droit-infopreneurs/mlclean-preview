@@ -11,7 +11,7 @@ description: >-
 
 Entre le logement « en désordre » et le logement insalubre, il y a une
 frontière : celle où l'habitat devient un **danger pour la santé ou la
-sécurité** de ses occupants. La repérer tôt permet d'agir avant la crise —
+sécurité** de ses occupants. La repérer tôt permet d'agir avant la crise,
 hospitalisation, chute, incendie, ou procédure administrative.
 
 ## Les signes visibles depuis l'extérieur
@@ -34,7 +34,7 @@ Souvent, ce sont les voisins, le facteur ou l'aide à domicile qui alertent :
 - **l'occupant lui-même** : hygiène négligée, isolement, refus de laisser
   entrer.
 
-Un seul signe ne fait pas une insalubrité — c'est leur accumulation et leur
+Un seul signe ne fait pas une insalubrité, c'est leur accumulation et leur
 durée qui doivent alerter.
 
 ## À qui signaler la situation ?
@@ -54,7 +54,7 @@ personne de l'isolement.
 ## Et la remise en état ?
 
 Une fois la situation prise en main par les bonnes personnes, la remise en
-état du logement peut commencer — et c'est notre métier :
+état du logement peut commencer, et c'est notre métier :
 [nettoyage et désinfection]({{ '/prestations/nettoyage-desinfection/' | relative_url }}),
 en coordination avec les services sociaux, dans le respect de l'occupant.
 La visite d'évaluation est [gratuite]({{ '/contact/' | relative_url }}), à

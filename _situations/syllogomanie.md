@@ -11,7 +11,7 @@ description: >-
   en lien avec les intervenants sociaux. Devis gratuit sous 72 h.
 ---
 
-La syllogomanie — parfois appelée accumulation compulsive — désigne la
+La syllogomanie, parfois appelée accumulation compulsive, désigne la
 difficulté persistante à se séparer d'objets, quelle que soit leur valeur,
 au point que le logement finit par en être envahi. Contrairement au syndrome
 de Diogène, la personne reste souvent attachée à l'hygiène et consciente du
@@ -21,13 +21,13 @@ problème : c'est **se séparer des choses** qui est douloureux.
 
 Chaque objet accumulé a une raison d'être pour la personne : souvenir,
 « au cas où », projet inachevé. Un débarras imposé brutalement est vécu comme
-une violence — et la situation se reconstitue presque toujours. C'est pourquoi
+une violence, et la situation se reconstitue presque toujours. C'est pourquoi
 notre approche est progressive :
 
 1. **Visite d'évaluation gratuite**, si possible en présence de la personne
    et d'un proche ou d'un intervenant social de confiance.
 2. **Tri par étapes**, en associant la personne aux décisions : ce qu'on
-   garde, ce qu'on donne, ce qu'on recycle. Le don est souvent une clé — savoir
+   garde, ce qu'on donne, ce qu'on recycle. Le don est souvent une clé, savoir
    que ses objets serviront à d'autres aide à s'en séparer.
 3. **Désencombrement pièce par pièce**, à un rythme supportable, en plusieurs
    passages si nécessaire.
@@ -52,4 +52,4 @@ travailleur social, tutelle). Nous travaillons en coordination avec les
 intervenants déjà présents, et la facturation à un tiers est possible.
 
 Visite gratuite, devis détaillé sous 72 h, intervention possible sous
-7 jours — à Sarlat et alentours, en toute discrétion.
+7 jours, à Sarlat et alentours, en toute discrétion.

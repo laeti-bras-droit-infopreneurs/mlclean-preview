@@ -13,13 +13,13 @@ Sarlat-la-Canéda est notre ville d'attache : c'est d'ici que rayonne ML Clean
 Services, et c'est ici que nos délais sont les plus courts. Débarras d'une
 maison de ville dans le secteur sauvegardé, nettoyage d'un appartement,
 remise en état d'une longère dans une commune du Sarladais : nous connaissons
-le territoire, ses logements — et ses habitants.
+le territoire, ses logements, et ses habitants.
 
 ## Une entreprise d'ici, pour les gens d'ici
 
 Être une entreprise locale change tout dans notre métier :
 
-- **la visite d'évaluation est gratuite et rapide** — nous sommes sur place ;
+- **la visite d'évaluation est gratuite et rapide**, nous sommes sur place ;
 - **pas de frais de déplacement** qui gonflent le devis ;
 - **nous connaissons les acteurs locaux** : CCAS, services sociaux du
   secteur, associations, déchetteries et filières de don du Sarladais ;
@@ -29,7 +29,7 @@ le territoire, ses logements — et ses habitants.
 ## Nos interventions à Sarlat et dans le Sarladais
 
 Nous intervenons en maison, appartement et dépendances, à Sarlat même et dans
-les communes alentour — Salignac-Eyvigues, Saint-Geniès, Carsac-Aillac,
+les communes alentour, Salignac-Eyvigues, Saint-Geniès, Carsac-Aillac,
 Domme, La Roque-Gageac, Beynac, Saint-Cyprien, Montignac-Lascaux et toutes
 les communes du Périgord Noir.
 

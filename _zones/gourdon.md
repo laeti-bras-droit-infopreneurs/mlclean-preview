@@ -33,13 +33,13 @@ granges pleines de plusieurs générations d'objets, personnes âgées attachée
 mission sociale : permettre aux gens de **rester chez eux dans de bonnes
 conditions**, et aux familles de gérer les transitions sans s'épuiser.
 
-Nous travaillons volontiers avec les acteurs sociaux du Lot — CCAS,
-travailleurs sociaux de secteur, tutelles — avec les mêmes engagements que
+Nous travaillons volontiers avec les acteurs sociaux du Lot, CCAS,
+travailleurs sociaux de secteur, tutelles, avec les mêmes engagements que
 partout : devis sous 72 h, intervention sous 7 jours, facturation à un tiers
 possible, compte rendu d'intervention.
 
 ## En pratique
 
 La visite d'évaluation est gratuite à Gourdon et dans toute la Bouriane.
-Contactez-nous via la [page contact]({{ '/contact/' | relative_url }}) —
+Contactez-nous via la [page contact]({{ '/contact/' | relative_url }}),
 nous vous rappelons rapidement.

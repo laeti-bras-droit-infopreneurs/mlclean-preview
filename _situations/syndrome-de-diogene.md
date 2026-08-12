@@ -29,22 +29,22 @@ les intervenants à domicile :
   sanitaire hors d'usage).
 
 Si vous reconnaissez un proche ou une personne que vous accompagnez, sachez
-qu'**il existe une issue** — et qu'elle ne passe pas par la contrainte.
+qu'**il existe une issue**, et qu'elle ne passe pas par la contrainte.
 
 ## Notre approche : la personne d'abord
 
 Vider et nettoyer « de force » un logement Diogène est presque toujours un
 échec : la situation se réinstalle. Notre méthode est différente :
 
-1. **Comprendre avant d'agir** — visite d'évaluation gratuite, en présence de
+1. **Comprendre avant d'agir**, visite d'évaluation gratuite, en présence de
    la personne et/ou de son entourage (famille, travailleur social, tuteur).
-2. **Associer la personne** — chaque fois que possible, elle participe aux
+2. **Associer la personne**, chaque fois que possible, elle participe aux
    décisions : ce qu'on garde, ce qu'on donne, ce qu'on jette. Les documents
    et objets personnels importants sont systématiquement préservés.
-3. **Intervenir avec méthode** — débarras, tri sélectif, nettoyage en
+3. **Intervenir avec méthode**, débarras, tri sélectif, nettoyage en
    profondeur puis désinfection, pièce par pièce, avec du matériel
    professionnel adapté.
-4. **Assurer l'après** — point de suivi, compte rendu aux prescripteurs,
+4. **Assurer l'après**, point de suivi, compte rendu aux prescripteurs,
    possibilité d'un entretien régulier pour éviter la rechute, en lien avec
    les aides à domicile.
 

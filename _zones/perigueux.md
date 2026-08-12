@@ -26,7 +26,7 @@ nous intervenons dans tout le Grand Périgueux avec nos engagements habituels.
 
 ## Un partenaire pour les institutions départementales
 
-Périgueux est le siège des services départementaux — service social du
+Périgueux est le siège des services départementaux, service social du
 Département, MDPH, associations tutélaires, bailleurs sociaux. À tous ces
 professionnels, nous proposons un interlocuteur unique et des engagements
 fiables : **devis sous 72 h** transmissible au dossier, **intervention sous
@@ -39,7 +39,7 @@ détaille notre fonctionnement.
 Entreprise de l'économie sociale et solidaire, nous appliquons à Périgueux la
 même charte qu'à Sarlat : aucun jugement, la personne associée aux décisions,
 les objets en bon état donnés plutôt que jetés, les documents et souvenirs
-préservés et remis. Un logement remis en état doit servir un projet de vie —
+préservés et remis. Un logement remis en état doit servir un projet de vie,
 maintien à domicile, relogement, nouveau départ.
 
 Visite d'évaluation gratuite dans l'agglomération de Périgueux : décrivez-nous

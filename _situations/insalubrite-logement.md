@@ -3,7 +3,7 @@ title: "Logement insalubre"
 pole: nettoyage-desinfection
 accroche: >-
   Remettre en état un logement dégradé pour qu'il redevienne sain, sûr
-  et habitable — étape par étape.
+  et habitable, étape par étape.
 description: >-
   Nettoyage et remise en état de logements insalubres en Périgord Noir :
   débarras, nettoyage en profondeur, désinfection. Intervention respectueuse
@@ -13,7 +13,7 @@ description: >-
 Un logement devient insalubre progressivement : un entretien qui s'espace, un
 dégât des eaux jamais réparé, une accumulation qui s'installe, parfois des
 nuisibles qui prolifèrent. Quand la situation dépasse ce qu'un ménage ordinaire
-peut rattraper, une intervention professionnelle devient nécessaire — pour la
+peut rattraper, une intervention professionnelle devient nécessaire, pour la
 santé des occupants comme pour la préservation du logement.
 
 ## De quoi parle-t-on ?
@@ -28,7 +28,7 @@ L'insalubrité recouvre des réalités variées :
 
 Ces situations touchent des personnes âgées en perte d'autonomie, des personnes
 isolées ou en souffrance psychique, des familles dépassées. **Notre rôle n'est
-pas de juger, mais de remettre le logement — et souvent un projet de vie —
+pas de juger, mais de remettre le logement, et souvent un projet de vie,
 en état de marche.**
 
 ## Notre méthode de remise en état

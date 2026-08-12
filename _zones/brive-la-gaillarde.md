@@ -12,7 +12,7 @@ description: >-
 Brive-la-Gaillarde et son bassin sont à moins d'une heure de route de Sarlat :
 la Corrèze limitrophe fait naturellement partie de notre zone d'intervention.
 Habitants, familles et professionnels du secteur de Brive peuvent compter sur
-les mêmes services — et les mêmes engagements — que dans le Périgord Noir.
+les mêmes services, et les mêmes engagements, que dans le Périgord Noir.
 
 ## Nos services dans le bassin de Brive
 
@@ -29,13 +29,13 @@ les mêmes services — et les mêmes engagements — que dans le Périgord Noir
 
 Parce que les situations que nous traitons trouvent peu de réponses locales à
 taille humaine : les grandes enseignes nationales envoient des équipes
-lointaines et facturent le déplacement, quand nous sommes à moins d'une heure
-— avec une visite d'évaluation **gratuite** et un vrai suivi possible dans la
+lointaines et facturent le déplacement, quand nous sommes à moins d'une heure,
+avec une visite d'évaluation **gratuite** et un vrai suivi possible dans la
 durée.
 
-Et parce que notre approche d'entreprise sociale et solidaire — la personne
+Et parce que notre approche d'entreprise sociale et solidaire, la personne
 d'abord, le respect de son histoire, la coordination avec les services
-sociaux — répond à un vrai besoin des CCAS, tutelles et familles du bassin de
+sociaux, répond à un vrai besoin des CCAS, tutelles et familles du bassin de
 Brive confrontés aux situations d'habitat dégradé.
 
 ## En pratique

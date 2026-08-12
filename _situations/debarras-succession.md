@@ -11,8 +11,8 @@ description: >-
   notaires et familles, remise en état. Devis gratuit sous 72 h.
 ---
 
-Une succession impose de vider un logement chargé d'histoire — souvent la
-maison de famille — dans des délais qui ne laissent pas toujours le temps du
+Une succession impose de vider un logement chargé d'histoire, souvent la
+maison de famille, dans des délais qui ne laissent pas toujours le temps du
 deuil. Héritiers dispersés, parfois en désaccord, notaire qui attend, bien à
 vendre ou à restituer : nous prenons en charge la partie matérielle pour
 apaiser ce moment.
@@ -25,12 +25,12 @@ apaiser ce moment.
   côté et remis aux héritiers ou au notaire ; objets de valeur, photos et
   souvenirs préservés et inventoriés si vous le souhaitez ;
 - **valorisation par le don** : les meubles et objets en bon état peuvent
-  partir vers les filières locales de don et de réemploi — beaucoup de
+  partir vers les filières locales de don et de réemploi, beaucoup de
   familles y trouvent du sens ;
 - **nettoyage complet** après débarras, pour rendre le logement prêt à
   vendre, à louer ou à restituer.
 
-## Des familles parfois éloignées — ou en désaccord
+## Des familles parfois éloignées, ou en désaccord
 
 Nous avons l'habitude des successions où les héritiers vivent loin : visite
 d'évaluation documentée par photos, échanges à distance, remise des objets

@@ -10,8 +10,8 @@ description: >-
 
 ML Clean Services est née d'une conviction simple : **un logement digne change
 une vie**. Nous intervenons dans les logements pour les remettre en état après
-un événement de vie difficile — hospitalisation, perte d'autonomie, décès,
-situation d'insalubrité — à Sarlat et dans tout le Périgord Noir.
+un événement de vie difficile, hospitalisation, perte d'autonomie, décès,
+situation d'insalubrité, à Sarlat et dans tout le Périgord Noir.
 
 > « Nous proposons un service sur-mesure de proximité permettant aux personnes
 > de se réapproprier leur histoire et leur espace de vie, dans le respect et
@@ -49,7 +49,7 @@ de la temporalité de chacun, liaison avec les travailleurs sociaux référents.
 Expériences en technicité opérationnelle : débarrassage, nettoyage,
 désinfection, réorganisation des espaces de vie de chacun.
 
-Cette double compétence — **travail social et gestion** — est la signature de
+Cette double compétence, **travail social et gestion**, est la signature de
 ML Clean Services : une entreprise locale de l'économie sociale et solidaire,
 à vos côtés pour les situations extrêmes d'habitats dégradés.
 

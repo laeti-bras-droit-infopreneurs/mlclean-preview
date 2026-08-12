@@ -11,7 +11,7 @@ description: >-
 ---
 
 Vider le logement d'un parent ou d'un proche disparu est une épreuve : chaque
-objet raconte quelque chose, et il faut pourtant avancer — pour la succession,
+objet raconte quelque chose, et il faut pourtant avancer, pour la succession,
 pour la remise des clés, pour tourner la page. Notre rôle est de porter la
 charge matérielle de ce moment, **pour que vous puissiez le vivre à votre
 rythme**.
@@ -22,7 +22,7 @@ rythme**.
   cave, grenier, dépendances.
 - **Tri respectueux** : les photos, papiers de famille, bijoux et objets
   personnels sont systématiquement mis de côté et remis à la famille. Rien de
-  ce qui a de la valeur — financière ou sentimentale — ne part sans votre
+  ce qui a de la valeur, financière ou sentimentale, ne part sans votre
   accord.
 - **Valorisation par le don** : si vous le souhaitez, les meubles et objets en
   bon état sont orientés vers les filières locales de don et de réemploi.

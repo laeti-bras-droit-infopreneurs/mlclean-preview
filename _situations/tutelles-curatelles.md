@@ -2,7 +2,7 @@
 title: "Travailler avec les tutelles et curatelles"
 pole: accompagnement
 accroche: >-
-  Mandataires judiciaires : un prestataire qui comprend vos contraintes —
+  Mandataires judiciaires : un prestataire qui comprend vos contraintes,
   devis transmissible, traçabilité, respect de la personne protégée.
 description: >-
   ML Clean Services, partenaire des mandataires judiciaires (tutelles,
@@ -13,7 +13,7 @@ description: >-
 Mandataire judiciaire à la protection des majeurs, tuteur ou curateur
 familial : quand le logement d'une personne protégée doit être débarrassé ou
 remis en état, vous avez besoin d'un prestataire qui comprenne **le cadre
-juridique et humain** de votre mission. C'est notre cas — l'un de nos
+juridique et humain** de votre mission. C'est notre cas, l'un de nos
 fondateurs est éducateur spécialisé de métier.
 
 ## Vos contraintes, nos réponses
@@ -35,7 +35,7 @@ son histoire et de ses biens. Notre pratique :
   permet, en lien avec vous ;
 - rien de personnel n'est jeté par défaut : en cas de doute, nous mettons de
   côté et nous vous demandons ;
-- l'intervention se fait **sans jugement et avec discrétion** — beaucoup de
+- l'intervention se fait **sans jugement et avec discrétion**, beaucoup de
   personnes protégées vivent des situations
   ([Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }}),
   [incurie]({{ '/situations/incurie-logement/' | relative_url }}),

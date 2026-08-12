@@ -3,7 +3,7 @@ title: "Désinfection de logement"
 pole: nettoyage-desinfection
 accroche: >-
   Éliminer bactéries, virus et odeurs pour rendre un logement réellement
-  sain — avec des produits professionnels et une équipe certifiée.
+  sain, avec des produits professionnels et une équipe certifiée.
 description: >-
   Désinfection professionnelle de maison et d'appartement à Sarlat et
   alentours : après incurie, décès, maladie ou sinistre. Équipe certifiée
@@ -32,7 +32,7 @@ incrustées.
 
 Notre équipe est **certifiée Certibiocide** : nous sommes habilités à utiliser
 les produits biocides professionnels, en respectant les dosages, les temps de
-contact et les précautions d'usage. C'est une garantie d'efficacité — et de
+contact et les précautions d'usage. C'est une garantie d'efficacité, et de
 sécurité pour les occupants, y compris les enfants et les animaux, grâce à des
 protocoles de réintégration clairs.
 
@@ -50,7 +50,7 @@ protocoles de réintégration clairs.
 
 ## Dignité et discrétion, comme toujours
 
-Une désinfection intervient souvent dans un moment difficile — deuil, maladie,
+Une désinfection intervient souvent dans un moment difficile, deuil, maladie,
 situation d'incurie. Notre engagement d'entreprise sociale et solidaire
 s'applique ici comme ailleurs : respect des lieux, des personnes et de leur
 histoire, discrétion totale vis-à-vis du voisinage.

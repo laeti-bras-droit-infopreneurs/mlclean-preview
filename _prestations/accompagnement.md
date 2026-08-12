@@ -16,7 +16,7 @@ points:
 
 C'est ce qui fait de ML Clean Services une entreprise sociale, pas comme les
 autres : chez nous, **le nettoyage sert un projet de vie**. Un logement remis
-en état n'est pas une fin en soi — c'est un maintien à domicile rendu possible,
+en état n'est pas une fin en soi, c'est un maintien à domicile rendu possible,
 un retour d'hospitalisation préparé, une famille soulagée.
 
 ## La coordination, notre cœur de métier
@@ -48,6 +48,6 @@ Consultez notre [espace professionnels]({{ '/professionnels/' | relative_url }})
 
 Notre conviction : on ne « traite » pas un logement, on accompagne une
 personne. Chaque fois que c'est possible, la personne concernée est associée
-aux décisions — ce qu'on garde, ce qu'on donne, ce qu'on jette. Se réapproprier
+aux décisions, ce qu'on garde, ce qu'on donne, ce qu'on jette. Se réapproprier
 son espace de vie, c'est aussi se réapproprier son histoire. C'est le sens de
 nos trois piliers : **Débarrassage, Nettoyage, Accompagnement**.

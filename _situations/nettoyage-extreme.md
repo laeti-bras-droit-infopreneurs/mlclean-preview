@@ -10,8 +10,8 @@ description: >-
   et discrète, devis gratuit sous 72 h.
 ---
 
-Certains logements dépassent ce qu'un particulier — ou même une entreprise de
-ménage classique — peut prendre en charge : saleté incrustée depuis des
+Certains logements dépassent ce qu'un particulier, ou même une entreprise de
+ménage classique, peut prendre en charge : saleté incrustée depuis des
 années, déchets organiques, sanitaires hors d'usage, odeurs imprégnées dans
 les murs. C'est ce qu'on appelle le nettoyage extrême, et c'est l'un de nos
 cœurs de métier.
@@ -29,7 +29,7 @@ cœurs de métier.
 ## Notre méthode
 
 1. **Évaluation sur place, gratuite** : nous mesurons l'ampleur réelle du
-   chantier — c'est indispensable pour un devis juste.
+   chantier, c'est indispensable pour un devis juste.
 2. **Évacuation préalable** de tout ce qui doit partir (déchets, encombrants),
    avec tri et préservation des objets personnels et documents.
 3. **Nettoyage en profondeur, pièce par pièce** : dégraissage, détartrage,

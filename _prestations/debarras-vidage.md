@@ -11,7 +11,7 @@ description: >-
 points:
   - Débarras complet ou partiel
   - Réorganisation des espaces
-  - Tri sélectif — dons, recyclage, déchetterie
+  - Tri sélectif, dons, recyclage, déchetterie
   - Gestion administrative et financière si besoin
 ---
 
@@ -23,7 +23,7 @@ concentrer sur l'essentiel**.
 
 ## Ce que nous prenons en charge
 
-- **Débarras complet** : la totalité du logement est vidée — meubles,
+- **Débarras complet** : la totalité du logement est vidée, meubles,
   électroménager, effets personnels, cave, grenier, dépendances.
 - **Débarras partiel** : seules certaines pièces ou certains volumes sont
   concernés, selon vos besoins et votre budget.
@@ -42,7 +42,7 @@ Un logement qui se vide, c'est une vie qui se range. Nous trions avec soin :
   officiels) sont systématiquement mis de côté et remis à la personne, à sa
   famille ou à son représentant légal ;
 - les **objets de valeur et souvenirs** (photos, bijoux, objets personnels)
-  sont recherchés et préservés — jamais jetés par défaut ;
+  sont recherchés et préservés, jamais jetés par défaut ;
 - le rythme de l'intervention peut être **adapté à la personne** lorsqu'elle
   est présente, en lien avec les intervenants sociaux si besoin.
 

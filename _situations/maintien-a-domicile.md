@@ -12,13 +12,13 @@ description: >-
 
 Pour une personne âgée ou fragilisée, le logement peut devenir un obstacle au
 maintien à domicile : quand l'entretien dépasse ses forces, la situation se
-dégrade doucement — jusqu'au jour où la question du placement se pose. Notre
+dégrade doucement, jusqu'au jour où la question du placement se pose. Notre
 conviction d'entreprise sociale et solidaire : **un logement entretenu permet
 de rester chez soi plus longtemps.**
 
 ## En quoi est-ce différent d'une aide-ménagère ?
 
-Les aides à domicile assurent l'entretien courant — et font un travail
+Les aides à domicile assurent l'entretien courant, et font un travail
 essentiel. Nous intervenons **en complément**, là où leurs moyens s'arrêtent :
 
 - **remise à niveau initiale** quand le logement s'est trop dégradé pour
@@ -35,7 +35,7 @@ essentiel. Nous intervenons **en complément**, là où leurs moyens s'arrêtent
 
 Nous commençons toujours par une **visite gratuite**, si possible avec la
 personne et un proche ou l'intervenant social qui la suit. Ensemble, nous
-définissons ce qui doit être fait — en respectant les habitudes et les objets
+définissons ce qui doit être fait, en respectant les habitudes et les objets
 auxquels la personne tient. Puis nous convenons d'un rythme : intervention
 ponctuelle, trimestrielle, ou à la demande.
 
@@ -44,7 +44,7 @@ ponctuelle, trimestrielle, ou à la demande.
 Nous travaillons en lien avec les CCAS, les services d'aide à domicile,
 les familles et les tutelles. Si nous constatons une évolution préoccupante
 (début d'[incurie]({{ '/situations/incurie-logement/' | relative_url }}),
-accumulation), nous alertons les personnes référentes — c'est aussi ça,
+accumulation), nous alertons les personnes référentes, c'est aussi ça,
 l'utilité sociale de proximité.
 
 Intervention à Sarlat et alentours. Devis sous 72 h, facturation possible à

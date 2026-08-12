@@ -9,13 +9,13 @@ description: >-
   Noir : après syndrome de Diogène, insalubrité, ou en maintien à domicile.
   Intervention discrète et respectueuse, devis gratuit sous 72 h.
 points:
-  - Traitement des nuisibles — « Certibiocide Nuisibles »
-  - Désinfection — « Certibiocide Désinfectant »
+  - Traitement des nuisibles, « Certibiocide Nuisibles »
+  - Désinfection, « Certibiocide Désinfectant »
   - Nettoyage approfondi, produits ÉCO respectueux de la santé et de l'environnement
 ---
 
 Un logement très dégradé ne se nettoie pas comme un logement ordinaire. Il faut
-du matériel adapté, des protocoles rigoureux — et surtout une approche humaine,
+du matériel adapté, des protocoles rigoureux, et surtout une approche humaine,
 car derrière un logement en souffrance, il y a presque toujours **une personne
 en difficulté**.
 

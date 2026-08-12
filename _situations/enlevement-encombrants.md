@@ -13,7 +13,7 @@ description: >-
 Un canapé à évacuer, un électroménager en panne, une literie à remplacer, ou
 tout ce qui reste après des travaux ou un déménagement : quand les objets sont
 trop lourds, trop gros ou trop nombreux pour la déchetterie, nous nous en
-chargeons — **du logement jusqu'à la bonne filière**.
+chargeons, **du logement jusqu'à la bonne filière**.
 
 ## Ce que nous enlevons
 
@@ -37,12 +37,12 @@ n'est pas forcément un déchet.
 - l'électroménager et la ferraille partent au **recyclage** ;
 - seul le reste va en déchetterie.
 
-Vos encombrants peuvent avoir une seconde vie utile à quelqu'un du territoire
-— et cela réduit souvent le coût d'évacuation.
+Vos encombrants peuvent avoir une seconde vie utile à quelqu'un du territoire,
+et cela réduit souvent le coût d'évacuation.
 
 ## Ponctuel ou dans un projet plus large
 
-L'enlèvement d'encombrants peut être une intervention simple et rapide — ou la
+L'enlèvement d'encombrants peut être une intervention simple et rapide, ou la
 première étape d'un projet plus large :
 [débarras complet]({{ '/prestations/debarras-vidage/' | relative_url }}),
 [remise en état avant vente]({{ '/situations/remise-en-etat-avant-vente/' | relative_url }}),
@@ -50,4 +50,4 @@ première étape d'un projet plus large :
 chez une personne âgée. Parlez-nous de votre situation : le devis est gratuit
 et sous 72 h.
 
-Intervention à Sarlat et alentours — maison, appartement, dépendances.
+Intervention à Sarlat et alentours, maison, appartement, dépendances.
