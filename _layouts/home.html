@@ -3,20 +3,22 @@ layout: default
 ---
 {%- comment -%} ══ Héro ══ {%- endcomment -%}
 <section class="hero">
-  <div class="conteneur hero-grille">
-    <div class="hero-contenu">
-      <p class="hero-badge">Entreprise sociale et solidaire — {{ site.data.contact.zone_courte }}</p>
-      <h1>Nettoyer <span aria-hidden="true">•</span> Vider <span aria-hidden="true">•</span> Redonner</h1>
-      <p class="hero-texte">{{ page.hero_texte }}</p>
-      <div class="hero-actions">
-        <a class="bouton bouton-plein" href="{{ '/contact/' | relative_url }}">Demander un devis gratuit</a>
-        <a class="bouton bouton-contour" href="{{ '/qui-sommes-nous/' | relative_url }}">Découvrir notre démarche</a>
-      </div>
+  <div class="conteneur hero-contenu">
+    <p class="hero-pilliers">Débarrassage <span aria-hidden="true">•</span> Nettoyage <span aria-hidden="true">•</span> Accompagnement</p>
+    <h1>Un logement digne,<br>un projet de vie qui repart.</h1>
+    <p class="hero-texte">{{ page.hero_texte }}</p>
+    <div class="hero-actions">
+      <a class="bouton bouton-plein" href="{{ '/contact/' | relative_url }}">Demander un devis gratuit</a>
+      <a class="bouton bouton-contour" href="{{ '/qui-sommes-nous/' | relative_url }}">Découvrir notre démarche</a>
     </div>
-    <div class="hero-media">
-      {% include visuel.html image=page.hero_image theme="default" titre="ML Clean Services, débarras et nettoyage en Périgord Noir" classe="ratio-4-3" %}
-    </div>
+    <p class="hero-zone">
+      <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0z"/><circle cx="12" cy="10" r="3"/></svg>
+      Entreprise sociale et solidaire — {{ site.data.contact.zone_courte }}
+    </p>
   </div>
+</section>
+
+<section class="bandeau-chiffres">
   <div class="conteneur">
     <ul class="hero-chiffres">
       {% for c in site.data.social_proof.chiffres %}

@@ -50,4 +50,4 @@ Notre conviction : on ne « traite » pas un logement, on accompagne une
 personne. Chaque fois que c'est possible, la personne concernée est associée
 aux décisions — ce qu'on garde, ce qu'on donne, ce qu'on jette. Se réapproprier
 son espace de vie, c'est aussi se réapproprier son histoire. C'est le sens de
-notre slogan : **Nettoyer, Vider, Redonner**.
+nos trois piliers : **Débarrassage, Nettoyage, Accompagnement**.

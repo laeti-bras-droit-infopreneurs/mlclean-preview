@@ -18,8 +18,8 @@ situation d'insalubrité — à Sarlat et dans tout le Périgord Noir.
 > la dignité de chacun. »
 
 Nous ne faisons pas que nettoyer. Nous redonnons à chaque personne un cadre de
-vie digne, sécurisé et respectueux de son histoire. C'est le sens de notre
-slogan : **Nettoyer • Vider • Redonner**.
+vie digne, sécurisé et respectueux de son histoire. C'est le sens de nos trois
+piliers : **Débarrassage • Nettoyage • Accompagnement**.
 
 ## Une entreprise de l'économie sociale et solidaire
 

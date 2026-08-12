@@ -2,7 +2,7 @@
 
 Site statique Jekyll, hébergé sur GitHub Pages (build natif, aucune GitHub Action à maintenir).
 
-**ML Clean Services** — Nettoyer • Vider • Redonner
+**ML Clean Services** — Débarrassage • Nettoyage • Accompagnement
 Débarras, nettoyage/désinfection et accompagnement social en Périgord Noir
 (Sarlat et alentours, rayon d'environ 1 h). Entreprise de l'ESS.
 
