@@ -20,7 +20,7 @@ principale:
   # Liens directs tant que les pages « situations » sont en réserve.
   # (Le jour où l'option référencement est prise : repasser en `type: pole`
   #  avec `pole: <slug>` pour retrouver les menus déroulants automatiques.)
-  - label: Débarras & vidage
+  - label: Débarrasser & trier
     url: /prestations/debarras-vidage/
   - label: Nettoyage & désinfection
     url: /prestations/nettoyage-desinfection/

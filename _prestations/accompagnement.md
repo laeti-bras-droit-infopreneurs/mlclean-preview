@@ -9,9 +9,9 @@ description: >-
   Périgord Noir : coordination avec CCAS, tutelles et familles, devis sous
   72 h, intervention sous 7 jours, facturation à un tiers possible.
 points:
-  - Coordination avec CCAS, tutelles, familles
+  - Coordination avec les familles et les travailleurs sociaux prescripteurs
+  - Mise en lien et en confiance avec le client bénéficiaire, avant et pendant l'intervention
   - Devis gratuit et rapide sous 72 h
-  - Intervention sous 7 jours
 ---
 
 C'est ce qui fait de ML Clean Services une entreprise sociale, pas comme les

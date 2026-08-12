@@ -1,5 +1,5 @@
 ---
-title: "Débarras & vidage de logement"
+title: "Débarrasser & trier le logement"
 ordre: 1
 accroche: >-
   Vider une maison ou un appartement, entièrement ou en partie, en prenant
@@ -10,8 +10,9 @@ description: >-
   administrative. Devis gratuit sous 72 h.
 points:
   - Débarras complet ou partiel
+  - Réorganisation des espaces
   - Tri sélectif — dons, recyclage, déchetterie
-  - Gestion administrative si besoin
+  - Gestion administrative et financière si besoin
 ---
 
 Vider un logement n'est jamais un geste anodin. Derrière chaque débarras, il y a

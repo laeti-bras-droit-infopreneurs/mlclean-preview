@@ -37,22 +37,21 @@ serve un projet de vie.**
 
 ## L'équipe fondatrice
 
-### Magalie Gabriel
+### Laurent
 
-25 ans d'expérience dans le commerce, la banque et la gestion. Magalie apporte
-la rigueur : devis clairs, délais tenus, gestion transparente des dossiers —
-y compris les montages de facturation avec les tutelles et organismes.
+25 ans d'expériences diverses en tant qu'éducateur spécialisé auprès de
+différents publics fragilisés. Accompagnement, climat de confiance, respect
+de la temporalité de chacun, liaison avec les travailleurs sociaux référents.
 
-### Laurent Leroy
+### Magalie
 
-Éducateur spécialisé de métier, avec une expérience en CHRS (centre
-d'hébergement et de réinsertion sociale) et en protection de l'enfance.
-Laurent apporte le regard social : comprendre les situations de fragilité,
-travailler au rythme de la personne, coordonner avec les acteurs sociaux.
+10 ans d'expériences significatives en gestion et conseil d'entreprise.
+Expériences en technicité opérationnelle : débarrassage, nettoyage,
+désinfection, réorganisation des espaces de vie de chacun.
 
-Cette double compétence — **gestion et travail social** — est la signature de
-ML Clean Services : un service professionnel dans l'exécution, humain dans
-l'approche.
+Cette double compétence — **travail social et gestion** — est la signature de
+ML Clean Services : une entreprise locale de l'économie sociale et solidaire,
+à vos côtés pour les situations extrêmes d'habitats dégradés.
 
 ## Nos valeurs
 

@@ -9,28 +9,38 @@ chiffres:
   - titre: "Facturation possible à un tiers"
     detail: "Tutelle, famille, organisme : nous nous adaptons." # <!-- À VÉRIFIER : formulation exacte de la plaquette -->
 
+# Les 5 valeurs de la plaquette (roue « Nos valeurs »)
 valeurs:
-  - nom: Dignité
+  - nom: Empathie, écoute
     description: >-
-      Interventions discrètes, dans le respect des lieux et des personnes.
-      Jamais de jugement : chaque histoire mérite d'être traitée avec soin.
+      Comprendre avant d'agir : chaque situation est écoutée
+      sans jugement, avec respect de la temporalité de chacun.
+  - nom: Confidentialité
+    description: >-
+      Discrétion totale, vis-à-vis du voisinage comme dans le
+      traitement des informations qui nous sont confiées.
   - nom: Utilité sociale
     description: >-
-      Chaque chantier a un impact social concret : maintien à domicile,
+      Chaque chantier a un impact concret : maintien à domicile,
       retour à un logement digne, soulagement des familles.
   - nom: Professionnalisme
     description: >-
-      Équipe formée, matériel adapté, transparence des devis
-      et engagement sur les délais.
+      Équipe formée et certifiée, matériel adapté, transparence
+      des devis et engagement sur les délais.
+  - nom: Relation de confiance
+    description: >-
+      Un interlocuteur unique, une mise en lien et en confiance
+      avant et pendant l'intervention.
 
+# Le déroulement en 4 étapes (plaquette)
 etapes:
   - titre: Contact & visite
-    description: "Échange téléphonique, puis visite gratuite sur place pour comprendre la situation."
+    description: "Téléphone, site internet, mail. RDV pour visite sur place, constat, échanges."
   - titre: Devis clair
-    description: "Proposition détaillée, transparente et sans engagement, sous 72 h."
-  - titre: Intervention
-    description: "Équipe professionnelle, discrétion garantie, respect des lieux et des personnes."
+    description: "Proposition détaillée sous 72 h, transparente et sans engagement."
+  - titre: Intervention sur mesure
+    description: "Équipe professionnelle, discrétion assurée."
   - titre: Suivi
-    description: "Point après intervention et coordination avec les intervenants sociaux si besoin."
+    description: "Auprès du prescripteur et/ou du client bénéficiaire."
 
 types_lieux: "Maison, appartement, dépendances"

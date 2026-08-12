@@ -2,6 +2,5 @@
 layout: null
 permalink: /robots.txt
 ---
-# Préversion de travail — non destinée aux moteurs de recherche
 User-agent: *
 Disallow: /

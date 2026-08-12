@@ -9,9 +9,9 @@ description: >-
   Noir : après syndrome de Diogène, insalubrité, ou en maintien à domicile.
   Intervention discrète et respectueuse, devis gratuit sous 72 h.
 points:
-  - Nettoyage de fond, remise en état
-  - Désinfection après syndrome de Diogène, insalubrité
-  - Nettoyage de maintien à domicile
+  - Traitement des nuisibles — « Certibiocide Nuisibles »
+  - Désinfection — « Certibiocide Désinfectant »
+  - Nettoyage approfondi, produits ÉCO respectueux de la santé et de l'environnement
 ---
 
 Un logement très dégradé ne se nettoie pas comme un logement ordinaire. Il faut
