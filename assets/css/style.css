@@ -18,7 +18,7 @@
   --bordure: #dbe6ee;
 
   --police: "Nunito Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --rayon: 12px;
+  --rayon: 8px;
   --ombre: 0 2px 12px rgba(28, 58, 94, 0.08);
   --ombre-forte: 0 12px 32px rgba(28, 58, 94, 0.16);
   --largeur-max: 1120px;
@@ -61,7 +61,7 @@ blockquote {
 
 /* ── Boutons ── */
 .bouton {
-  display: inline-block; padding: 0.75rem 1.6rem; border-radius: 999px;
+  display: inline-block; padding: 0.75rem 1.6rem; border-radius: 7px;
   font-weight: 700; text-decoration: none; border: 2px solid transparent;
   cursor: pointer; font-size: 1rem; transition: background .15s, color .15s;
 }
@@ -101,7 +101,7 @@ blockquote {
   white-space: nowrap;
 }
 .nav-lien:hover, .nav-declencheur[aria-expanded="true"] { color: var(--bleu); background: var(--bleu-clair); }
-.nav-cta { background: var(--vert); color: #fff !important; border-radius: 999px; padding: 0.6rem 1.25rem; margin-left: 0.4rem; }
+.nav-cta { background: var(--vert); color: #fff !important; border-radius: 7px; padding: 0.6rem 1.25rem; margin-left: 0.4rem; }
 .nav-cta:hover { background: var(--vert-fonce); }
 .chevron { font-size: 0.7em; opacity: 0.8; }
 
@@ -135,7 +135,7 @@ blockquote {
 .hero-pilliers {
   display: inline-block; margin: 0 0 1.1rem;
   background: linear-gradient(135deg, var(--bleu), #4f97c9); color: #fff;
-  padding: 0.5rem 1.3rem; border-radius: 999px;
+  padding: 0.5rem 1.3rem; border-radius: 7px;
   font-size: 0.85rem; font-weight: 800; letter-spacing: 0.04em; text-transform: uppercase;
   box-shadow: 0 6px 16px rgba(46,127,181,0.25);
 }
