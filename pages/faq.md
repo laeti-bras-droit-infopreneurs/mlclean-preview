@@ -34,7 +34,7 @@ préalable — nous évaluons le chantier réel, pas une estimation au télépho
 Vous-même, un membre de la famille, une tutelle ou curatelle, ou un
 organisme : la **facturation à un tiers est possible** et notre devis est
 prévu pour être transmis aux organismes et aux juges des tutelles. Voir notre
-page [Qui paie ? Aides et prises en charge]({{ '/situations/aides-financieres/' | relative_url }}).
+page [Accompagnement]({{ '/prestations/accompagnement/' | relative_url }}).
 
 ## Délais et déroulement
 

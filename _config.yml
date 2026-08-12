@@ -42,6 +42,11 @@ defaults:
       type: situations
     values:
       layout: situation
+      # ── RÉSERVE COMMERCIALE ──
+      # Les pages « situations » sont rédigées mais NON PUBLIÉES : elles ne font
+      # pas partie du devis I-26-07-4. À réactiver si le client prend l'option
+      # « pack référencement » : supprimer la ligne published ci-dessous.
+      published: false
   - scope:
       type: zones
     values:

@@ -55,7 +55,7 @@ personne de l'isolement.
 
 Une fois la situation prise en main par les bonnes personnes, la remise en
 état du logement peut commencer — et c'est notre métier :
-[nettoyage de logement insalubre]({{ '/situations/insalubrite-logement/' | relative_url }}),
+[nettoyage et désinfection]({{ '/prestations/nettoyage-desinfection/' | relative_url }}),
 en coordination avec les services sociaux, dans le respect de l'occupant.
 La visite d'évaluation est [gratuite]({{ '/contact/' | relative_url }}), à
 Sarlat et alentours.

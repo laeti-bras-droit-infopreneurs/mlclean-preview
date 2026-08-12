@@ -54,5 +54,5 @@ c'est un standard chez nous.
 - Un devis clair et détaillé est indispensable pour toute demande d'aide.
   Le nôtre est [gratuit et fourni sous 72 h]({{ '/contact/' | relative_url }}).
 
-Notre page [Qui paie ? Aides et prises en charge]({{ '/situations/aides-financieres/' | relative_url }})
+Notre page [Accompagnement]({{ '/prestations/accompagnement/' | relative_url }})
 détaille comment notre facturation s'adapte à chaque montage.

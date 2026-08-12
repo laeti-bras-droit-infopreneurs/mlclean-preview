@@ -17,15 +17,15 @@ principale:
         url: /ressources/
       - label: Questions fréquentes
         url: /faq/
+  # Liens directs tant que les pages « situations » sont en réserve.
+  # (Le jour où l'option référencement est prise : repasser en `type: pole`
+  #  avec `pole: <slug>` pour retrouver les menus déroulants automatiques.)
   - label: Débarras & vidage
-    type: pole
-    pole: debarras-vidage
+    url: /prestations/debarras-vidage/
   - label: Nettoyage & désinfection
-    type: pole
-    pole: nettoyage-desinfection
+    url: /prestations/nettoyage-desinfection/
   - label: Accompagnement
-    type: pole
-    pole: accompagnement
+    url: /prestations/accompagnement/
   - label: Contact & devis
     url: /contact/
     cta: true

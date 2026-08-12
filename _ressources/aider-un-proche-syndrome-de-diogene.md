@@ -42,7 +42,7 @@ expérience de terrain nous a appris.
 ## Comment se passe une intervention respectueuse ?
 
 C'est exactement notre métier : une
-[prise en charge du syndrome de Diogène]({{ '/situations/syndrome-de-diogene/' | relative_url }})
+[prise en charge du logement]({{ '/prestations/nettoyage-desinfection/' | relative_url }})
 commence par une visite d'évaluation gratuite, si possible avec la personne et
 son entourage. Le tri se fait avec elle, les souvenirs et documents sont
 préservés, et un suivi est mis en place pour éviter la rechute. La discrétion
