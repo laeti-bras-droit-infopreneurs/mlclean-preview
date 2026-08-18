@@ -8,8 +8,9 @@
   --bleu-nuit: #1c3a5e;      /* header, footer, titres */
   --bleu: #2e7fb5;           /* accents, liens */
   --bleu-clair: #e8f2f8;     /* fonds doux */
-  --vert: #6faf3f;           /* accent nature / ESS */
-  --vert-fonce: #4e8228;     /* survols, texte vert accessible */
+  --vert: #8cc63e;           /* vert de marque (logo) */
+  --vert-fonce: #6ba52f;     /* survols et aplats */
+  --vert-texte: #4e8228;     /* vert lisible sur fond clair (texte) */
   --encre: #24313f;          /* texte titres */
   --texte: #3d4a5a;          /* texte courant */
   --fond: #ffffff;
@@ -42,7 +43,7 @@ h1 { font-size: clamp(1.9rem, 4.5vw, 2.8rem); }
 h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
 h3 { font-size: 1.2rem; }
 a { color: var(--bleu); }
-a:hover { color: var(--vert-fonce); }
+a:hover { color: var(--vert-texte); }
 table { border-collapse: collapse; width: 100%; margin: 1.5rem 0; }
 th, td { border: 1px solid var(--bordure); padding: 0.65rem 0.9rem; text-align: left; }
 th { background: var(--bleu-clair); color: var(--bleu-nuit); }
@@ -148,7 +149,7 @@ blockquote {
 .hero-actions { display: flex; gap: 0.9rem; flex-wrap: wrap; }
 .hero-zone {
   margin: 1.75rem 0 0; display: inline-flex; align-items: center; gap: 0.5rem;
-  font-size: 0.9rem; font-weight: 700; color: var(--vert-fonce);
+  font-size: 0.9rem; font-weight: 700; color: var(--vert-texte);
 }
 
 /* Bandeau des 3 engagements, sous le héro */
@@ -303,7 +304,7 @@ section { padding: 3.5rem 0; }
 .cta-devis h2 { color: #fff; }
 .cta-inner { display: flex; align-items: center; justify-content: space-between; gap: 2rem; flex-wrap: wrap; }
 .cta-actions { display: flex; gap: 0.9rem; flex-wrap: wrap; }
-.cta-devis .bouton-plein { background: #fff; color: var(--vert-fonce); }
+.cta-devis .bouton-plein { background: #fff; color: var(--vert-texte); }
 .cta-devis .bouton-plein:hover { background: var(--bleu-nuit); color: #fff; }
 .cta-devis .bouton-contour { border-color: #fff; color: #fff; }
 
